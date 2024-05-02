@@ -1,0 +1,69 @@
+{
+    "id": 1,
+    "matches": [
+        {
+            "id": 1,
+            "status": "CONFIRMED",
+            "confidence": 0.59999999999999997779553950749686919152736663818359375,
+            "results": {
+                "matchType": "single_gazetteer_match",
+                "codeVersion": "12asdf",
+                "recallWeight": 1,
+                "automaticThreshold": 0.8000000000000000444089209850062616169452667236328125,
+                "gazetteerThreshold": 0.5,
+                "noGazetteerMatches": false
+            },
+            "osId": "DAT_TRAN_PHONG_NGUYEN_OAR_ID",
+            "name": "facility match name 1",
+            "address": "facility match address 1",
+            "location": {
+                "lat": 16.1060158,
+                "lng": 108.2606798
+            },
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "status": "REJECTED",
+            "confidence": 0.6999999999999999555910790149937383830547332763671875,
+            "results": {
+                "matchType": "single_gazetteer_match",
+                "codeVersion": "34asdf",
+                "recallWeight": 1,
+                "automaticThreshold": 0.8000000000000000444089209850062616169452667236328125,
+                "gazetteerThreshold": 0.5,
+                "noGazetteerMatches": false
+            },
+            "osId": "oar_id_2",
+            "name": "facility match name 2",
+            "address": "facility match address 2",
+            "location": {
+                "lat": 16.1060158,
+                "lng": 108.2606798
+            },
+            "isActive": true
+        }
+    ],
+    "rowIndex": 1,
+    "address": "facility list item address",
+    "name": "facility list item name",
+    "rawData": "facility liste item name, facility list item address",
+    "status": "CONFIRMED_MATCH",
+    "processingStartedAt": null,
+    "processingCompletedAt": null,
+    "countryCode": "US",
+    "facilityList": 1,
+    "countryName": "United States",
+    "processingErrors": null,
+    "listStatuses": ["CONFIRMED_MATCH"],
+    "matchedFacility": {
+        "osId": "DAT_TRAN_PHONG_NGUYEN_OAR_ID",
+        "name": "facility match name 1",
+        "address": "facility match address 1",
+        "location": {
+            "lat": 16.1060158,
+            "lng": 108.2606798
+        },
+        "createdFromId": 12345
+    }
+}

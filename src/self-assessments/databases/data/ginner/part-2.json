@@ -1,0 +1,958 @@
+{
+    "id": "a8dff8e8-8ddc-40e9-bf92-0da67fdf14fc",
+    "forRole": "GINNER",
+    "groupTitle": {
+        "en": "Production Information",
+        "ur": "مصنوعات کی معلومات"
+    },
+    "riskScoreLevel": [],
+    "order": 1,
+    "description": null,
+    "questions": [
+        {
+            "id": "37a4b4e0-1056-4b52-9858-8bfd81e37bd4",
+            "title": {
+                "en": "What are the finished products you produce?",
+                "ur": "آپ کی تیار کردہ مصنوعات کیا ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 1,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "finished-fabric-textile",
+                        "i18n": {
+                            "en": "Finished fabric (textile)",
+                            "ur": "تیار شدہ کپڑا (ٹیکسٹائل)"
+                        }
+                    },
+                    {
+                        "code": "yarn-&-threads",
+                        "i18n": {
+                            "en": "Yarn & threads",
+                            "ur": "سوت اور دھاگے"
+                        }
+                    },
+                    {
+                        "code": "fabric-knitting",
+                        "i18n": {
+                            "en": "Fabric (knitting)",
+                            "ur": "کپڑا (بننا)"
+                        }
+                    },
+                    {
+                        "code": "fabric-weaving",
+                        "i18n": {
+                            "en": "Fabric (weaving)",
+                            "ur": "کپڑا (بنائی)"
+                        }
+                    },
+                    {
+                        "code": "fabric-non-woven",
+                        "i18n": {
+                            "en": "Fabric (non-woven)",
+                            "ur": "فیبرک (غیر بنے ہوئے)"
+                        }
+                    },
+                    {
+                        "code": "baled-cotton",
+                        "i18n": {
+                            "en": "Baled cotton",
+                            "ur": "روئی کی بیل"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "05cd8e64-b2aa-4fb4-9869-87fb67b872e8",
+            "title": {
+                "en": "Please indicate all production processes conducted in your site/in-house",
+                "ur": "براہ کرم آپ کی سائٹ/ان-ہاؤس میں کیے گئے تمام پروڈکشن کے عمل کی نشاندہی کریں۔"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 2,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "cutting",
+                        "i18n": {
+                            "en": "Cutting",
+                            "ur": "کاٹنا"
+                        }
+                    },
+                    {
+                        "code": "sewing",
+                        "i18n": {
+                            "en": "Sewing",
+                            "ur": "سلائی"
+                        }
+                    },
+                    {
+                        "code": "finishing",
+                        "i18n": {
+                            "en": "Finishing",
+                            "ur": "مصنوعات کی تکمیل"
+                        }
+                    },
+                    {
+                        "code": "linking",
+                        "i18n": {
+                            "en": "Linking",
+                            "ur": "جوڑنا"
+                        }
+                    },
+                    {
+                        "code": "packaging",
+                        "i18n": {
+                            "en": "Packaging",
+                            "ur": "پیکیجنگ"
+                        }
+                    },
+                    {
+                        "code": "dyeing",
+                        "i18n": {
+                            "en": "Dyeing",
+                            "ur": "رنگائی"
+                        }
+                    },
+                    {
+                        "code": "printing",
+                        "i18n": {
+                            "en": "Printing",
+                            "ur": "پرنٹنگ"
+                        }
+                    },
+                    {
+                        "code": "embroidery",
+                        "i18n": {
+                            "en": "Embroidery",
+                            "ur": "کڑھائی"
+                        }
+                    },
+                    {
+                        "code": "washing",
+                        "i18n": {
+                            "en": "Washing",
+                            "ur": "دھونا"
+                        }
+                    },
+                    {
+                        "code": "silk-screen",
+                        "i18n": {
+                            "en": "Silk-screen",
+                            "ur": "سلک اسکرین"
+                        }
+                    },
+                    {
+                        "code": "spraying",
+                        "i18n": {
+                            "en": "Spraying",
+                            "ur": "سپرے کرنا"
+                        }
+                    },
+                    {
+                        "code": "plating",
+                        "i18n": {
+                            "en": "Plating",
+                            "ur": "پلیٹنگ"
+                        }
+                    },
+                    {
+                        "code": "knitting",
+                        "i18n": {
+                            "en": "Knitting",
+                            "ur": "بُنائی"
+                        }
+                    },
+                    {
+                        "code": "warping",
+                        "i18n": {
+                            "en": "Warping",
+                            "ur": "وارپنگ"
+                        }
+                    },
+                    {
+                        "code": "slashing",
+                        "i18n": {
+                            "en": "Slashing",
+                            "ur": "سلیشنگ"
+                        }
+                    },
+                    {
+                        "code": "beaming",
+                        "i18n": {
+                            "en": "Beaming",
+                            "ur": "بیمنگ"
+                        }
+                    },
+                    {
+                        "code": "drafting",
+                        "i18n": {
+                            "en": "Drafting",
+                            "ur": "ڈرافٹنگ"
+                        }
+                    },
+                    {
+                        "code": "denting",
+                        "i18n": {
+                            "en": "Denting",
+                            "ur": "ڈینٹنگ"
+                        }
+                    },
+                    {
+                        "code": "weaving",
+                        "i18n": {
+                            "en": "Weaving",
+                            "ur": "بنائی"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر پیداواری عمل (براہ کرم وضاحت کریں)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1c82a69c-23d0-49d4-bbf8-b69b52efa461",
+            "title": {
+                "en": "Please provide more information on the materials & components you source",
+                "ur": "براہ کرم اپنے ذریعہ کردہ مواد اور اجزاء کے بارے میں مزید معلومات فراہم کریں۔"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 3,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "fabric-knitting",
+                        "i18n": {
+                            "en": "Fabric (knitting)",
+                            "ur": "کپڑا (بننا)"
+                        }
+                    },
+                    {
+                        "code": "fabric-weaving",
+                        "i18n": {
+                            "en": "Fabric (weaving)",
+                            "ur": "کپڑا (بنائی)"
+                        }
+                    },
+                    {
+                        "code": "fabric-non-woven",
+                        "i18n": {
+                            "en": "Fabric (non-woven)",
+                            "ur": "فیبرک (غیر بنے ہوئے)"
+                        }
+                    },
+                    {
+                        "code": "yarn-&-threads",
+                        "i18n": {
+                            "en": "Yarn & threads",
+                            "ur": "سوت اور دھاگے"
+                        }
+                    },
+                    {
+                        "code": "packaging-materials",
+                        "i18n": {
+                            "en": "Packaging materials",
+                            "ur": "پیکیجنگ مواد"
+                        }
+                    },
+                    {
+                        "code": "dyeing-&-finishing-&-printing-chemicals-Wood-pulp",
+                        "i18n": {
+                            "en": "Dyeing & finishing & printing chemicals Wood pulp",
+                            "ur": "رنگنے اور فنشنگ اورپرنٹنگ کیمیکل لکڑی کا گودا"
+                        }
+                    },
+                    {
+                        "code": "synthetic-fibre-/-man-made-fibre-e.g.-viscose,-modal",
+                        "i18n": {
+                            "en": "Synthetic fibre / man-made fibre (e.g. viscose, modal)",
+                            "ur": "مصنوعی ریشہ / انسان ساختہ فائبر (جیسے ویسکوز، موڈل)"
+                        }
+                    },
+                    {
+                        "code": "synthetic-leather-&-natural-leather",
+                        "i18n": {
+                            "en": "Synthetic leather & natural leather",
+                            "ur": "مصنوعی چمڑا اور قدرتیچمڑا"
+                        }
+                    },
+                    {
+                        "code": "accessories-e.g.-zipper,-buttons-and-labels",
+                        "i18n": {
+                            "en": "Accessories (e.g. zipper, buttons and labels)",
+                            "ur": "لوازمات (مثلاً زپر، بٹن اورلیبل)"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر (وضاحت براہ مہربانی)"
+                        }
+                    }
+                    
+                ]
+            }
+        },
+        {
+            "id": "bead5077-181b-4f17-bac9-b3c95fb39dc7",
+            "title": {
+                "en": "Do you purchase cotton in part or in whole from artis (middlemen)?",
+                "ur": "کیا آپ کپاس جزوی طور پر خریدتے ہیں یا مکمل طور پر  آڑھتی (مڈل مین) سے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 4,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [ 
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "traceabilityRiskLevel": "High",
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "traceabilityRiskLevel": "Low",
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b2c8e9a1-2b56-4b9b-beaa-94f52099ba19",
+            "title": {
+                "en": "Do you know which countries your production input (raw materials and materials & components) originates from?",
+                "ur": "کیا آپ جانتے ہیں کہ آپ کا پروڈکشن ان پٹ (خام مال اور مواد اور اجزاء) کن ممالک سے آتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 5,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [ 
+                    {
+                        "code": "yes,-we-know-the-country-of-origin-of-all-raw-materials-and-materials-&-components",
+                        "i18n": {
+                            "en": "Yes, we know the country of origin of all raw materials and materials & components",
+                            "ur": "جی ہاں، ہم تمام خام مال اور مواد اور اجزاء کی اصل کا ملک جانتے ہیں۔"
+                        },
+                        "traceabilityRiskLevel": "Low",
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "yes,-we-know-some-of-the-country-of-origin-of-raw-materials-and-materials-&-components",
+                        "i18n": {
+                            "en": "Yes, we know some of the country of origin of raw materials and materials & components",
+                            "ur": "جی ہاں، ہم خام مال اور مواد اور اجزاء کے اصل ملک میں سے کچھ جانتے ہیں۔"
+                        },
+                        "traceabilityRiskLevel": "Medium",
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    },
+                    {
+                        "code": "no,-we-don’t-know-the-country-of-origin-of-any-of-the-raw-materials,-materials-&-components-we-sourced",
+                        "i18n": {
+                            "en": "No, we don’t know the country of origin of any of the raw materials, materials & components we sourced",
+                            "ur": "نہیں، ہم نہیں جانتے کہ ہم نے جو خام مال، مواد اور اجزاء حاصل کیے ہیں ان میں سے کسی کی اصل ملک کہاں ہے"
+                        },
+                        "traceabilityRiskLevel": "High",
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "f47d31c5-3ce7-4204-9473-f7ff5a75a55f",
+            "title": {
+                "en": "Do you import any cotton (in part or in whole) from any of the following countries? (Benin, Burkina Faso, China, India, Kazakhstan, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan)",
+                "ur": "کیا آپ مندرجہ ذیل میں سے کسی بھی ملک سے کوئی روئی (جزوی یا مکمل) درآمد کرتے ہیں؟ (بینن، برکینا فاسو، چین، بھارت، قازقستان، پاکستان، تاجکستان، ترکمانستان، اور ازبکستان)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 6,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [ 
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b80440e7-f24b-4288-bc85-35ef3a2ad0ed",
+            "title": {
+                "en": "Does your company have a policy requiring your suppliers to disclose all suppliers and subcontractors they use?",
+                "ur": "کیا آپ کی کمپنی کے پاس کوئی ایسی پالیسی ہے جس میں آپ کے سپلائرز کو ان تمام سپلائرز اور ذیلی ٹھیکیداروں کو ظاہر کرنے کی ضرورت ہے جنسے  وہ کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 7,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [ 
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "traceabilityRiskLevel": "Low",
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "traceabilityRiskLevel": "High",
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b27c51b0-6152-4cac-9be5-03961edbddaf",
+            "title": {
+                "en": "What systems do you use to track material from warehouse incoming goods, through production to warehouse outgoing goods?",
+                "ur": "گودام میں آنے والے سامان سے لے کر پیداوار کے ذریعے گودام سے باہر جانے والے سامان تک مواد کو ٹریک کرنے کے لیے آپ کون سے نظام استعمال کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 8,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "multiChoiceType": "MC1",
+                "values": [
+                    {
+                        "code": "we-do-not-have-any-system-to-track-flow-of-materials-into-and-out-of-warehouse",
+                        "i18n": {
+                            "en": "We do not have any system to track flow of materials into and out of warehouse",
+                            "ur": "ہمارے پاس گودام میں اور باہر مواد کے بہاؤ کو ٹریک کرنے کا کوئی نظام نہیں ہے۔"
+                        },
+                        "skipAllSelected": true
+                    },
+                    {
+                        "code": "paper-based-logbook",
+                        "i18n": {
+                            "en": "Paper based logbook",
+                            "ur": "کاغذ پر مبنی لاگ بک"
+                        }
+                    },
+                    {
+                        "code": "excel-sheets",
+                        "i18n": {
+                            "en": "Excel sheets",
+                            "ur": "ایکسل شیٹس"
+                        }
+                    },
+                    {
+                        "code": "enterprise-resource-planning-/warehouse-management-system",
+                        "i18n": {
+                            "en": "Enterprise Resource Planning /Warehouse management system",
+                            "ur": "انٹرپرائز ریسورس پلاننگ / ویئر ہاؤس مینجمنٹ سسٹم"
+                        }
+                    },
+                    {
+                        "code": "barcode",
+                        "i18n": {
+                            "en": "Barcode",
+                            "ur": "بارکوڈ"
+                        }
+                    },
+                    {
+                        "code": "rfid",
+                        "i18n": {
+                            "en": "RFID",
+                            "ur": "آر ایف آئی ڈی"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر (وضاحت براہ مہربانی)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "17b10f04-f2c1-4a1a-bb19-9a1f8020d01e",
+            "title": {
+                "en": "Which of the following documents does your company maintain?",
+                "ur": "آپ کی کمپنی مندرجہ ذیل میں سے کون سی دستاویزات برقرار رکھتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 9,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "multiChoiceType": "MC2",
+                "values": [
+                    {
+                        "code": "we-do-not-maintain-any-of-these-documents",
+                        "i18n": {
+                            "en": "We do not maintain any of these documents",
+                            "ur": "ہم ان دستاویزات میں سے کسی کو برقرار نہیں رکھتے ہیں۔"
+                        },
+                        "skipAllSelected": true
+                    },
+                    {
+                        "code": "requests-for-quotations-and-quotations",
+                        "i18n": {
+                            "en": "Requests for quotations and quotations",
+                            "ur": "کوٹیشنز اور کوٹیشنز کی درخواستیں"
+                        }
+                    },
+                    {
+                        "code": "Commercial-invoice",
+                        "i18n": {
+                            "en": "Commercial invoice",
+                            "ur": "تجارتی رسید"
+                        }
+                    },
+                    {
+                        "code": "purchase-orders",
+                        "i18n": {
+                            "en": "Purchase orders",
+                            "ur": "خریداری کے احکامات"
+                        }
+                    },
+                    {
+                        "code": "bills-of-lading",
+                        "i18n": {
+                            "en": "Bills of lading",
+                            "ur": "لڈنگ کے بل"
+                        }
+                    },
+                    {
+                        "code": "export-packing-lists",
+                        "i18n": {
+                            "en": "Export packing lists",
+                            "ur": "ایکسپورٹ پیکنگ  لسٹیں"
+                        }
+                    },
+                    {
+                        "code": "airway/vessel-bills",
+                        "i18n": {
+                            "en": "Airway/vessel bills",
+                            "ur": "ایئر وے / جہاز کے بل"
+                        }
+                    },
+                    {
+                        "code": "dock/warehouse-receipts",
+                        "i18n": {
+                            "en": "Dock/warehouse receipts",
+                            "ur": "گودی / گودام کی رسیدیں"
+                        }
+                    },
+                    {
+                        "code": "certificates-of-origin",
+                        "i18n": {
+                            "en": "Certificates of origin",
+                            "ur": "اوریجن سرٹیفکیٹ"
+                        }
+                    },
+                    {
+                        "code": "warehouse-inventory-control",
+                        "i18n": {
+                            "en": "Warehouse inventory control",
+                            "ur": "گودام انوینٹری کنٹرول"
+                        }
+                    },
+                    {
+                        "code": "production-records-which-should-be-able-show-input-and-output-of-no-longer-than-one-day",
+                        "i18n": {
+                            "en": "Production records which should be able show input and output of no longer than one day",
+                            "ur": "پروڈکشن ریکارڈ جو ایک دن سے زیادہ کا ان پٹ اور آؤٹ پٹ دکھانے کے قابل ہونا چاہیے"
+                        }
+                    },
+                    {
+                        "code": "manufacturing-/-process-control",
+                        "i18n": {
+                            "en": "Manufacturing / process control",
+                            "ur": "مینوفیکچرنگ / پروسیسنگ کنٹرول"
+                        }
+                    },
+                    {
+                        "code": "finished-good-warehousing",
+                        "i18n": {
+                            "en": "Finished good warehousing",
+                            "ur": "تیار مال کے گودام"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر (وضاحت براہ مہربانی)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "50c1461c-3b52-4732-b21e-e14812df744e",
+            "title": {
+                "en": "Average number of outputs (i.e. #units/pieces) produced per month?",
+                "ur": "ہر ماہ پیداوار کی اوسط تعداد (یعنی #units/pieces)؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 10,
+            "type": "FREE_TEXT",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "placeholder": {
+                            "en": "i.e. #units/pieces",
+                            "ur": "یعنی #units/pieces"
+                        },
+                        "answerValueValidateSchema":{
+                            "rule": "string"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "3ea77543-9e96-4366-a29e-aaf5a9bafdf5",
+            "title": {
+                "en": "Please select all certification schemes your site participates in:",
+                "ur": "براہ کرم تمام سرٹیفیکیشن اسکیموں کو منتخب کریں جن میں آپ کی سائٹ حصہ لیتی ہے:"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 11,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "multiChoiceType": "MC3",
+                "values": [
+                    {
+                        "code": "we-do-not-participate-in-any-cotton-certification-schemes",
+                        "i18n": {
+                            "en": "We do not participate in any cotton certification schemes",
+                            "ur": "ہم کسی بھی کاٹن سرٹیفیکیشن اسکیموں میں حصہ نہیں لیتے ہیں۔"
+                        },
+                        "skipAllSelected": true
+                    },
+                    {
+                        "code": "grs",
+                        "i18n": {
+                            "en": "GRS",
+                            "ur": "جی آر ایس"
+                        }
+                    },
+                    {
+                        "code": "bci",
+                        "i18n": {
+                            "en": "BCI",
+                            "ur": "بی سی آئی"
+                        }
+                    },
+                    {
+                        "code": "gost",
+                        "i18n": {
+                            "en": "GOTS",
+                            "ur": "جی او ٹی ایس"
+                        }
+                    },
+                    {
+                        "code": "organic-cotton",
+                        "i18n": {
+                            "en": "Organic cotton",
+                            "ur": "نامیاتی کپاس"
+                        }
+                    },
+                    {
+                        "code": "leather-working-group",
+                        "i18n": {
+                            "en": "Leather Working Group",
+                            "ur": "لیدر ورکنگ گروپ"
+                        }
+                    },
+                    {
+                        "code": "oeko-tex",
+                        "i18n": {
+                            "en": "OEKO Tex",
+                            "ur": "او ای کے او ٹیکس"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر (وضاحت براہ مہربانی)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "95ff9f23-2542-4256-a191-02500435d5d2",
+            "title": {
+                "en": "Have you been audited against the following standards?",
+                "ur": "کیا آپ کو درج ذیل سٹینڈرڈز کے مطابق آڈٹ کیا گیا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 12,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "multiChoiceType": "MC4",
+                "values": [
+                    {
+                        "code": "we-have-not-been-audited-against-any-standards",
+                        "i18n": {
+                            "en": "We have not been audited against any standards",
+                            "ur": "ہمارا کسی معیار کے خلاف آڈٹ نہیں ہوا ہے۔"
+                        },
+                        "skipAllSelected": true
+                    },
+                    {
+                        "code": "sa-8000",
+                        "i18n": {
+                            "en": "SA 8000",
+                            "ur": "ایس اے8000"
+                        }
+                    },
+                    {
+                        "code": "wrap",
+                        "i18n": {
+                            "en": "WRAP",
+                            "ur": "ڈبلیو آر اے پی"
+                        }
+                    },
+                    {
+                        "code": "iso-14001",
+                        "i18n": {
+                            "en": "ISO 14001",
+                            "ur": "آئی ایس او 14001"
+                        }
+                    },
+                    {
+                        "code": "bsci",
+                        "i18n": {
+                            "en": "BSCI",
+                            "ur": "بی ایس سی آئی"
+                        }
+                    },
+                    {
+                        "code": "ietp-icti",
+                        "i18n": {
+                            "en": "IETP (ICTI)",
+                            "ur": "آئی ای ٹی پی(آئی سی ٹی آئی)"
+                        }
+                    },
+                    {
+                        "code": "smeta",
+                        "i18n": {
+                            "en": "SMETA",
+                            "ur": "ایس این ای ٹی اے"
+                        }
+                    },
+                    {
+                        "code": "better-work",
+                        "i18n": {
+                            "en": "Better Work",
+                            "ur": "بیٹر ورک"
+                        }
+                    },
+                    {
+                        "code": "ohsas-18001",
+                        "i18n": {
+                            "en": "OHSAS 18001",
+                            "ur": "او ایچ ایس اے ایس 18001"
+                        }
+                    },
+                    {
+                        "code": "rba-eicc",
+                        "i18n": {
+                            "en": "RBA (EICC)",
+                            "ur": "آر بی اے(ای آئی سی سی)"
+                        }
+                    },
+                    {
+                        "code": "slcp",
+                        "i18n": {
+                            "en": "SLCP",
+                            "ur": "ایس ایل سی پی"
+                        }
+                    },
+                    {
+                        "code": "higg-fem",
+                        "i18n": {
+                            "en": "HIGG FEM",
+                            "ur": "ایچ آئی جی جی ایف ای ایم"
+                        }
+                    },
+                    {
+                        "code": "bepi",
+                        "i18n": {
+                            "en": "BEPI",
+                            "ur": "بی ای پی آئی"
+                        }
+                    },
+                    {
+                        "code": "wca",
+                        "i18n": {
+                            "en": "WCA",
+                            "ur": "ڈبلیو سی اے"
+                        }
+                    },
+                    {
+                        "code": "ics",
+                        "i18n": {
+                            "en": "ICS",
+                            "ur": "آئی سی ایس"
+                        }
+                    },
+                    {
+                        "code": "yess",
+                        "i18n": {
+                            "en": "YESS",
+                            "ur": "وائی ای ایس ایس"
+                        }
+                    },
+                    {
+                        "code": "other",
+                        "isOther": true,
+                        "placeholder": {
+                            "en": "Please specify",
+                            "ur": "براہ کرم وضاحت کریں"
+                        },
+                        "i18n": {
+                            "en": "Other",
+                            "ur": "دیگر (وضاحت براہ مہربانی)"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "0219e646-969f-4ac5-87d7-9f055a3142aa",
+            "title": {
+                "en": "Is a tractor used for heaping cotton?",
+                "ur": "کیا کپاس کے ڈھیر لگانے کے لیے ٹریکٹر استعمال کیا جاتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 13,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [ 
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Forced Labor / Child labor"
+                    }
+                ]
+            }
+        }
+    ]
+}

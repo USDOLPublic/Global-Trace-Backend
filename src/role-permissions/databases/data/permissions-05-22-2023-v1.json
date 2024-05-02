@@ -1,0 +1,282 @@
+[
+    {
+        "id": "53762c36-283e-48f1-83e9-4dd966464509",
+        "group": "LABOR_RISK",
+        "set": 0,
+        "action": "SUBMIT_OWN_SAQ",
+        "name": "Submit own SAQ"
+    },
+    {
+        "id": "7759fb4c-ff64-46b1-b8f2-dd7ed48c61b4",
+        "group": "LABOR_RISK",
+        "set": 0,
+        "action": "SUBMIT_OWN_SAQ_FOR_OTHER_PARTICIPANT",
+        "name": "Submit own SAQ for other participant"
+    },
+    {
+        "id": "9671c619-64a5-4cd6-995f-6a49cf7f0232",
+        "group": "LABOR_RISK",
+        "set": 0,
+        "action": "REQUIRE_SAQ",
+        "name": "Require SAQ"
+    },
+    {
+        "id": "930d872e-e4d0-4767-bfe8-2340f414191e",
+        "group": "LABOR_RISK",
+        "set": 1,
+        "action": "PROACTIVE_ASSESSMENTS",
+        "name": "Proactive Assessments"
+    },
+    {
+        "id": "1fd2a4ab-d919-4172-9547-b813e61a499d",
+        "group": "LABOR_RISK",
+        "set": 1,
+        "action": "REACTIVE_ASSESSMENTS",
+        "name": "Reactive Assessments"
+    },
+    {
+        "id": "9b58c62f-75cf-42fb-aa93-0a053ede8148",
+        "group": "LABOR_RISK",
+        "set": 2,
+        "action": "ADD_EDIT_WEIGHTS_FOR_LABOR_INPUTS",
+        "name": "Add / edit weights for labor inputs"
+    },
+    {
+        "id": "2ba5002e-1545-47f4-b402-383c111d4ea4",
+        "group": "LABOR_RISK",
+        "set": 2,
+        "action": "DOWNLOAD_OWN_SAQ_RESPONSES",
+        "name": "Download own SAQ responses"
+    },
+    {
+        "id": "2a6781f7-837a-4c1c-97ea-ef1e23be5523",
+        "group": "LABOR_RISK",
+        "set": 2,
+        "action": "DOWNLOAD_OTHERS_SAQ_RESPONSE",
+        "name": "Download others SAQ response"
+    },
+    {
+        "id": "ad7415ca-eddf-4639-8bfa-61d53a45dbd7",
+        "group": "LABOR_RISK",
+        "set": 2,
+        "action": "SET_SELF_ASSESSMENT_QUESTIONNAIRES",
+        "name": "Set Self assessment questionnaires"
+    },
+    {
+        "id": "f868b98c-18f1-426c-978d-2e9160054947",
+        "group": "LABOR_RISK",
+        "set": 2,
+        "action": "ADD_EDIT_SCORING_FOR_RISK_ASSESSMENT",
+        "name": "Add / edit scoring for risk assessment"
+    },
+    {
+        "id": "b56d36b3-1e7b-4974-aab6-a698d534a931",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_ALL_REPORTS",
+        "name": "View all reports"
+    },
+    {
+        "id": "ced985a9-d44e-4a32-937a-cbe9c6afef04",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_MY_REPORTS",
+        "name": "View my reports"
+    },
+    {
+        "id": "491e6492-6c4a-47ed-bd6e-ca6d856e5c82",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "REFER_REPORT_FOR_FOLLOW_UP",
+        "name": "Refer report for follow up"
+    },
+    {
+        "id": "9de58a7a-a8b5-49d2-986b-1a55c4e6ccf1",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_COMPLETE_AUDIT_REPORT_DETAILS",
+        "name": "View complete audit report details"
+    },
+    {
+        "id": "6049cf23-3caa-4e9a-8f8a-fe31ce553b34",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_LIMITED_AUDIT_REPORT_DETAILS",
+        "name": "View limited audit report details"
+    },
+    {
+        "id": "77bf1120-014c-479b-91a2-3b6ef46c7ec8",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_COMPLETE_LABOR_MONITOR_DETAILS",
+        "name": "View complete labor monitor details"
+    },
+    {
+        "id": "225ba265-fe9d-4682-8d8d-c7ed18f0098d",
+        "group": "LABOR_RISK",
+        "set": 3,
+        "action": "VIEW_LIMITED_LABOR_MONITOR_DETAILS",
+        "name": "View limited labor monitor details"
+    },
+    {
+        "id": "543b9f72-1bdf-47aa-baf6-d0993939acb5",
+        "group": "LABOR_RISK",
+        "set": 4,
+        "action": "LOG_DNA_TEST_RESULTS",
+        "name": "Log DNA test results"
+    },
+    {
+        "id": "d9d4d611-76a2-4688-940b-e71d21d06c02",
+        "group": "LABOR_RISK",
+        "set": 4,
+        "action": "VIEW_DNA_TEST_RESULTS",
+        "name": "View DNA test results"
+    },
+    {
+        "id": "32e3083b-ff02-409f-879a-0e441b956977",
+        "group": "PRODUCT_TRACING",
+        "set": 2,
+        "action": "USE_SYNTHETIC_DNA",
+        "name": "Use synthetic DNA"
+    },
+    {
+        "id": "dfc3a30e-18d1-4ed4-b8c0-422b8f3726e2",
+        "group": "PRODUCT_TRACING",
+        "set": 2,
+        "action": "USE_QR_CODE",
+        "name": "Use QR Code"
+    },
+    {
+        "id": "78c9b572-0361-468e-86a7-62c41ad01db9",
+        "group": "PRODUCT_TRACING",
+        "set": 2,
+        "action": "USE_BARCODE",
+        "name": "Use Barcode"
+    },
+    {
+        "id": "e1fd0d22-07c3-4b80-b61d-2c5d5646d725",
+        "group": "PRODUCT_TRACING",
+        "set": 3,
+        "action": "LOG_PURCHASES",
+        "name": "Log purchases"
+    },
+    {
+        "id": "ad29a768-b2fd-4a39-8f3a-616e3774c27c",
+        "group": "PRODUCT_TRACING",
+        "set": 3,
+        "action": "LOG_TRANSFORMATIONS",
+        "name": "Log transformations"
+    },
+    {
+        "id": "b34e10d4-32a6-4ab2-9d53-bc107e5193e0",
+        "group": "PRODUCT_TRACING",
+        "set": 3,
+        "action": "LOG_SALE",
+        "name": "Log sale"
+    },
+    {
+        "id": "ed9ae6e1-11e6-4cb4-bb60-64c2221a5151",
+        "group": "PRODUCT_TRACING",
+        "set": 3,
+        "action": "LOG_TRANSPORT",
+        "name": "Log transport"
+    },
+    {
+        "id": "f68d8df4-3e59-452a-9a40-1d4450b5f4f3",
+        "group": "PRODUCT_TRACING",
+        "set": 3,
+        "action": "LOG_BY_PRODUCT",
+        "name": "Log by-product"
+    },
+    {
+        "id": "5d5b5c42-1ec6-41e0-a9e5-1893f2a6ef03",
+        "group": "OTHERS",
+        "set": 0,
+        "action": "ADMINISTER_SITE_SETTINGS",
+        "name": "Administer site settings"
+    },
+    {
+        "id": "9e3c3f8d-c1f4-4e19-a389-b62d570e64e8",
+        "group": "OTHERS",
+        "set": 0,
+        "action": "ADMINISTER_USERS",
+        "name": "Administer users"
+    },
+    {
+        "id": "9e42a0c7-7e37-4a1f-9c4f-2343b4a88341",
+        "group": "OTHERS",
+        "set": 0,
+        "action": "ADMINISTER_ROLES_AND_PERMISSIONS",
+        "name": "Administer roles and permissions"
+    },
+    {
+        "id": "fa81294b-29a1-4b7d-a97c-8475862c3a16",
+        "group": "OTHERS",
+        "set": 1,
+        "action": "VIEW_SUPPLIER_DATABASE",
+        "name": "View supplier database"
+    },
+    {
+        "id": "207e19c6-6f54-4b1d-9c3b-5a26d61e3e86",
+        "group": "OTHERS",
+        "set": 1,
+        "action": "TRACE_PRODUCTS",
+        "name": "Trace products"
+    },
+    {
+        "id": "1c1c21db-69f7-4a72-b3a2-19ac876cefd2",
+        "group": "OTHERS",
+        "set": 2,
+        "action": "INVITE_PARTNERS",
+        "name": "Invite partners"
+    },
+    {
+        "id": "cfa64d6b-3cfc-4b2d-9d5a-42d3e41ad383",
+        "group": "OTHERS",
+        "set": 3,
+        "action": "VIEW_SUPPLIER_DETAILS",
+        "name": "View supplier details"
+    },
+    {
+        "id": "7a67ae4b-54e6-4ce2-a610-5d7f7d719823",
+        "group": "OTHERS",
+        "set": 4,
+        "action": "CALCULATE_MASS_BALANCE",
+        "name": "Calculate mass balance"
+    },
+    {
+        "id": "a5151577-4a9d-452a-9b6b-30e1d6e57b3d",
+        "group": "OTHERS",
+        "set": 4,
+        "action": "CALCULATE_MARGIN_OF_ERROR",
+        "name": "Calculate margin of error"
+    },
+    {
+        "id": "97e4003d-13af-4e25-8970-fd16d3f0fe96",
+        "group": "OTHERS",
+        "set": 4,
+        "action": "CALCULATE_TOTAL_INPUTS",
+        "name": "Calculate total inputs"
+    },
+    {
+        "id": "9f2af4b7-675d-40b5-a8b2-8ae08a5c5e49",
+        "group": "OTHERS",
+        "set": 5,
+        "action": "VIEW_HISTORY",
+        "name": "View history"
+    },
+    {
+        "id": "8fbb9af9-5110-4ebf-b7ef-35d86c08164d",
+        "group": "OTHERS",
+        "set": 6,
+        "action": "MANAGE_QR_CODES",
+        "name": "Manage QR codes"
+    },
+    {
+        "id": "4b932976-cc2c-4da5-9075-fa478b6e4f0e",
+        "group": "OTHERS",
+        "set": 7,
+        "action": "TRACE_ORDER",
+        "name": "Trace order"
+    }
+]

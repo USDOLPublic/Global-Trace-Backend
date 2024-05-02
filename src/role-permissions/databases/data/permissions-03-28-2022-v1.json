@@ -1,0 +1,14 @@
+[
+  {
+    "id": "8062fb20-49e4-41ae-bb4c-4aac3aba39aa",
+    "group": "invitation",
+    "action": "invitation/invite_supplier",
+    "name": "[Manage] Invite Supplier"
+  },
+  {
+    "id": "5c14ec1c-c459-439f-a2ba-cc391a40c75d",
+    "group": "management",
+    "action": "management/manage_supplier",
+    "name": "[Manage] Manage Supplier"
+  }
+]

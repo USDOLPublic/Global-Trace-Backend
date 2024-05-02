@@ -1,0 +1,60 @@
+{
+    "id": 1,
+    "matches": [
+        {
+            "id": 1,
+            "status": "PENDING",
+            "confidence": 0.59999999999999997779553950749686919152736663818359375,
+            "results": {
+                "matchType": "single_gazetteer_match",
+                "codeVersion": "12asdf",
+                "recallWeight": 1,
+                "automaticThreshold": 0.8000000000000000444089209850062616169452667236328125,
+                "gazetteerThreshold": 0.5,
+                "noGazetteerMatches": false
+            },
+            "osId": "oar_id_1",
+            "name": "facility match name 1",
+            "address": "facility match address 1",
+            "location": {
+                "lat": 1,
+                "lng": 1
+            },
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "status": "REJECTED",
+            "confidence": 0.6999999999999999555910790149937383830547332763671875,
+            "results": {
+                "matchType": "single_gazetteer_match",
+                "codeVersion": "34asdf",
+                "recallWeight": 1,
+                "automaticThreshold": 0.8000000000000000444089209850062616169452667236328125,
+                "gazetteerThreshold": 0.5,
+                "noGazetteerMatches": false
+            },
+            "osId": "oar_id_2",
+            "name": "facility match name 2",
+            "address": "facility match address 2",
+            "location": {
+                "lat": 2,
+                "lng": 2
+            },
+            "isActive": true
+        }
+    ],
+    "rowIndex": 1,
+    "address": "facility list item address",
+    "name": "facility list item name",
+    "rawData": "facility liste item name, facility list item address",
+    "status": "POTENTIAL_MATCH",
+    "processingStartedAt": null,
+    "processingCompletedAt": null,
+    "countryCode": "US",
+    "countryName": "United States",
+    "matchedFacility": null,
+    "processingErrors": null,
+    "facilityList": 1,
+    "listStatuses": ["POTENTIAL_MATCH"]
+}

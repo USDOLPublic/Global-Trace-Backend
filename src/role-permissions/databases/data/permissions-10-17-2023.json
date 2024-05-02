@@ -1,0 +1,72 @@
+[
+    {
+        "groupType": "RADIO_MULTIPLE_GROUP",
+        "id": "a32f25cd-881e-45b1-9601-91b5092fa286"
+    },
+    {
+        "groupType": "CHECKBOX",
+        "id": "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "8f3523ff-524c-4b8b-89a7-4e83e3ac6225"
+    },
+    {
+        "action": "ASSIGN_DNA",
+        "name": "Assign DNA",
+        "id": "0f4bcbf5-3c52-47a0-a15e-3a14383cf1e5"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "572f7cd9-7e67-4de4-9f79-c974e60ca8f7"
+    },
+    {
+        "groupType": "CHECKBOX",
+        "name": "Log by-product",
+        "id": "e8c938f4-b6db-4165-887f-64c8707a5c45"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076"
+    },
+    {
+        "groupType": "CHECKBOX",
+        "id": "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d"
+    },
+    {
+        "groupType": "RADIO_GROUP",
+        "id": "2f625cf1-b685-4326-8250-26422aa3ac3c"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "d2d10b21-39a0-45c7-839f-09c98f157dec"
+    },
+    {
+        "groupType": "CHECKBOX",
+        "id": "d9f9a0db-859f-4b52-9374-aa1ec32a0cf0"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "2bfcf3e0-756d-41eb-904f-5b9f6579c515"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "cb6b4504-7a35-4f4e-b4d0-2a80b7184c76"
+    },
+    {
+        "groupType": "CHECKBOX",
+        "id": "b364b4a7-2b0b-45c2-bc85-982f9aa53f9a"
+    },
+    {
+        "groupType": "CHECKBOX_GROUP",
+        "id": "30c5a6f4-d6db-49f4-93d1-eac5f1612292"
+    }
+]

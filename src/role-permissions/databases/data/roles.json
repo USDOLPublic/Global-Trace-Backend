@@ -1,0 +1,13 @@
+[
+  { "id": "659e0ed0-f547-4d56-b15e-a723a908c91e", "name": "ADMIN"},
+  { "id": "43484404-1239-4ede-bd3e-2a8808f5d96d", "name": "FARM" },
+  { "id": "e6be1a55-26f0-4fc9-ac27-6cc51f0dc0e5", "name": "GINNER" },
+  { "id": "0dc62cd0-2539-452c-9050-0110feed9060", "name": "SPINNER" },
+  { "id": "8f356b17-cdf7-4ff9-8cc5-8f41041b3fcb", "name": "BROKER" },
+  { "id": "3ba6f58d-5522-40a1-9442-2caceebca357", "name": "TRANSPORTER" },
+  { "id": "5e429ca1-1a7f-42dc-b9f8-733caded03fe", "name": "MILL" },
+  { "id": "b9c1e596-bbd5-4638-aa83-b572ff1a4c90", "name": "BRAND" },
+  { "id": "62660fc3-4b32-4e7d-b487-59b83b3ad973", "name": "AUDITOR" },
+  { "id": "1208dbbe-293a-4fa1-8af7-482f9a02996a", "name": "FARM_MONITOR" },
+  { "id": "508b03d6-9ca5-4a8f-b4d9-f7cbf69e8768", "name": "SUPPLIER" }
+]

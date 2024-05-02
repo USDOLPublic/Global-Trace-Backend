@@ -1,0 +1,934 @@
+{
+    "id": "21e28c92-4cee-4ffc-9dc2-10fa1c125029",
+    "forRole": "GINNER",
+    "groupTitle": {
+        "en": "Labor Information",
+        "ur": "لیبر کی معلومات"
+    },
+    "riskScoreLevel": [],
+    "order": 2,
+    "description": null,
+    "questions": [
+        {
+            "id": "a8910f8d-9b82-475e-95da-464059d8e7da",
+            "title": {
+                "en": "What is the total number of workers (excluding management) at the site?",
+                "ur": "سائٹ پر کارکنوں کی کل تعداد (منیجمنٹ کو چھوڑ کر) کتنی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 1,
+            "type": "NUMBER",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "label": "Men",
+                        "code": "men",
+                        "placeholder": {
+                            "en": "Men",
+                            "ur": "مرد"
+                        },
+                        "answerValueValidateSchema": {
+                            "rule": "number"
+                        }
+                    },
+                    {
+                        "label": "Women",
+                        "code": "women",
+                        "placeholder": {
+                            "en": "Women",
+                            "ur": "خواتین"
+                        },
+                        "answerValueValidateSchema": {
+                            "rule": "number"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "431a1a46-bcc7-4fff-90ac-3e51cba90e81",
+            "title": {
+                "en": "What percentage of management (including trainers, supervisors, and/or other high level functions) at the site are women?",
+                "ur": "سائٹ پر کتنے فیصد مینجمنٹ (بشمول ٹرینرز، سپروائزرز، اور/یا دیگر اعلیٰ سطحی کام) خواتین ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 2,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [
+                    {
+                        "code": "less-than-40%",
+                        "i18n": {
+                            "en": "Less than 40%",
+                            "ur": "چالیس فی صد سے کم"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Gender Discrimination"
+                    },
+                    {
+                        "code": "more-than-40%",
+                        "i18n": {
+                            "en": "More than 40%",
+                            "ur": "چالیس فی صد سے زیادہ"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "175e94e8-5a54-4f8d-97e4-cdf8c0a2b90e",
+            "title": {
+                "en": "Does cotton processing rely on manual labor, including for any of the following activities: sorting and spreading cotton on platforms, throwing cotton into machines and push the bales out of the factory, removing cotton seed etc.?",
+                "ur": "کیا کپاس کی پروسیسنگ دستی مشقت پر انحصار کرتی ہے، بشمول درج ذیل میں سے کسی ایک سرگرمی کے لیے: پلیٹ فارم پر کپاس کو چھانٹنا اور پھیلانا، کپاس کو مشینوں میں پھینکنا اور گانٹھوں کو فیکٹری سے باہر دھکیلنا، کپاس کے بیج کو ہٹانا وغیرہ؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 3,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Manual labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "62502355-9a65-44cb-be51-1fbc1436809f",
+            "title": {
+                "en": "Do you rely on seasonal or temporary workers?",
+                "ur": "کیا آپ موسمی یا عارضی کارکنوں پر بھروسہ کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 4,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Seasonal labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9cbaa2d3-22db-4f9c-a3f5-27718252139b",
+            "title": {
+                "en": "Do workers often travel from different regions/provinces/states for the purpose of working at the ginners? [e.g. Nomadic haris including Bheels and Parkari Kolhis]",
+                "ur": "کیا ورکرز اکثر جنرز میں کام کرنے کے مقصد سے مختلف علاقوں/صوبوں/ریاستوں سے سفر کرتے ہیں؟ [مثلاً خانہ بدوش ہاری بشمول بھیل اور پارکاری کولہی]"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 5,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "traceabilityRiskLevel": "High",
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Internal Migrants / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "f5a4916f-24a4-44cb-9c73-a1807bff4f8f",
+            "title": {
+                "en": "Do international migrants work in the gin?",
+                "ur": "کیا بین الاقوامی تارکین وطن جننگ میں کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 6,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Foreign Migrant / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b6782476-d5cb-48a4-81f9-1cc92c71f3ca",
+            "title": {
+                "en": "Are there groups of workers working at the ginners who speak a different language or belong to a different religious, ethnic, or social group than their employers? (e.g. Christian and Hindu Dalits) or who are illterate ?",
+                "ur": "کیا جننگ میں کام کرنے والوں کے ایسے گروپ ہیں جو مختلف زبان بولتے ہیں یا اپنے آجروں سے مختلف مذہبی، نسلی، یا سماجی گروپ سے تعلق رکھتے ہیں؟ (جیسے عیسائی اور ہندو دلت) یا جو ناخواندہ ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 7,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Discrimination"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "09a1a336-14db-488b-83f8-9a96cd4dbb5e",
+            "title": {
+                "en": "Are workers provided loans or wage advances by the ginner or labour recruiters?",
+                "ur": "کیا مزدوروں کو جنر یا مزدور بھرتی کرنے والوں کے ذریعہ قرض یا اجرت کی پیشگی فراہم کی جاتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 8,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded labour / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4afda244-8afc-42b0-b282-afd3ece2359d",
+            "title": {
+                "en": "Are labour recruiters/intermediaries involved in hiring or supplying any workers for the ginner?",
+                "ur": "کیا مزدور بھرتی کرنے والے/بیچولی جنر کے لیے کسی کارکن کی خدمات حاصل کرنے یا سپلائی کرنے میں ملوث ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 9,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded labour"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "d53b2069-f699-4c4b-819e-64bd0ee97151",
+            "title": {
+                "en": "Is accommodation (temporary or permenant) provided to any workers by the ginner or labour recruiters?",
+                "ur": "کیا جنر یا مزدور بھرتی کرنے والوں کے ذریعہ کسی بھی کارکن کو رہائش (عارضی یا مستقل) فراہم کی جاتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 10,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded labour"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "9b18afaf-3cdb-4745-87ef-d2b12513db61",
+            "title": {
+                "en": "Do any children (under age of 18) live at the site with their parents?",
+                "ur": "کیا کوئی بچہ (18 سال سے کم عمر) اپنے والدین کے ساتھ سائٹ پر رہتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 11,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "d53b2069-f699-4c4b-819e-64bd0ee97151",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b67f5ffe-7578-4914-bcb4-636547d599bb",
+            "title": {
+                "en": "Do you require proof of age of workers and does it make note of this when hiring workers?",
+                "ur": "کیا آپ کو ورکرز کی عمر کا ثبوت درکار ہے اور کیا ورکرز کی خدمات حاصل کرتے وقت اس کو نوٹ کیا جاتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 12,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "5dd738e5-3df3-4339-8b32-59dc9a2ec92c",
+            "title": {
+                "en": "Does anyone under the age of 18 work at the site?",
+                "ur": "کیا 18 سال سے کم عمر کوئی بھی سائٹ پر کام کرتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 13,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24ff1c42-7aba-47b9-b811-d0ab004f8e22",
+            "title": {
+                "en": "Please select age catagories of those working at the site:",
+                "ur": "براہ کرم سائٹ پر کام کرنے والوں کی عمر کے زمرے منتخب کریں:"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 14,
+            "type": "MULTI_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "5dd738e5-3df3-4339-8b32-59dc9a2ec92c",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "multiChoiceType": "MC5",
+                "values": [
+                    {
+                        "code": "under-8",
+                        "i18n": {
+                            "en": "Under 8",
+                            "ur": "آٹھ سال سے کم عمر"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "8-11",
+                        "i18n": {
+                            "en": "8-11",
+                            "ur": "8-11"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "12-15",
+                        "i18n": {
+                            "en": "12-15",
+                            "ur": "12-15"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "16-17",
+                        "i18n": {
+                            "en": "16-17",
+                            "ur": "16-17"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "f45cf1ac-8143-47b6-8672-958114e56ca2",
+            "title": {
+                "en": "Do all of the young workers below school leaving age (16) also attend school?",
+                "ur": "کیا اسکول چھوڑنے کی عمر (16) سے کم عمر کے تمام نوجوان کارکن بھی اسکول جاتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 15,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "5dd738e5-3df3-4339-8b32-59dc9a2ec92c",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "865d02b1-8a19-4671-84ff-a5d616bdef9e",
+            "title": {
+                "en": "Has management identified any tasks, processes or other working conditions that could be hazardous to young workers?",
+                "ur": "کیا انتظامیہ نے کسی ایسے کام، عمل یا کام کے دیگر حالات کی نشاندہی کی ہے جو نوجوان کارکنوں کے لیے خطرناک ہو سکتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 16,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "5dd738e5-3df3-4339-8b32-59dc9a2ec92c",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (work which may harm the health, safety or morals of children)"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "412a06d4-0001-4155-aed1-87152cca9789",
+            "title": {
+                "en": "Do any young workers do the following?\n - Work in excess of seven hours a day and 42 hours a week.\n- Work overnight shifts (between 7 p.m. and 8 a.m)\n- Exposure to cotton fibre\n- Exposure to chemicals or other noxious substances\n- Heavy lifting \n- Exposure to heavy or dangerous machinery or tools\n- Any other conditions that can be considered hazardous",
+                "ur": "کیا کوئی نوجوان کارکن مندرجہ ذیل کام کرتا ہے؟\n- دن میں سات گھنٹے اور ہفتے میں 42 گھنٹے سے زیادہ کام کریں۔\n- رات بھر کی شفٹوں میں کام کریں (شام 7 بجے سے صبح 8 بجے کے درمیان)\nکپاس کے ریشے  کےسامنے\n- کیمیکلز یا دیگر نقصان دہ مادوں  کی موجودگی\n- بھاری وزن اٹھانا\n- بھاری یا خطرناک مشینری یا اوزار کےساتھ\n- کوئی دوسری شرائط جو خطرناک سمجھی جا سکتی ہیں"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 17,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "5dd738e5-3df3-4339-8b32-59dc9a2ec92c",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (work which may harm the health, safety or morals of children)"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "90354fc8-3fea-4cd0-b3ed-516844da0a3e",
+            "title": {
+                "en": "Does the ginner recognise any trade unions?",
+                "ur": "کیا جنر کسی ٹریڈ یونین کو تسلیم کرتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 18,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "22c3b525-36ed-4f2d-8bf2-fc1c0710f6e0",
+            "title": {
+                "en": "What percentage of the workforce is unionised?",
+                "ur": "افرادی قوت کا کتنا فیصد یونینائزڈ ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 19,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "90354fc8-3fea-4cd0-b3ed-516844da0a3e",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [
+                    {
+                        "code": "0%",
+                        "i18n": {
+                            "en": "0%",
+                            "ur": "0%"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": "1%-50%",
+                        "i18n": {
+                            "en": "1%-50%",
+                            "ur": "1%-50%"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": ">50%",
+                        "i18n": {
+                            "en": ">50%",
+                            "ur": ">50%"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b2ac8f5f-4f3d-45cc-b10d-41d97b1577bd",
+            "title": {
+                "en": "What percentage of the workforce is covered by collective bargaining agreements?",
+                "ur": "اجتماعی سودے بازی کے معاہدوں میں کتنے فیصد افرادی قوت کا احاطہ کیا جاتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 20,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "90354fc8-3fea-4cd0-b3ed-516844da0a3e",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [
+                    {
+                        "code": "0%",
+                        "i18n": {
+                            "en": "0%",
+                            "ur": "0%"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": "1%-50%",
+                        "i18n": {
+                            "en": "1%-50%",
+                            "ur": "1%-50%"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": ">50%",
+                        "i18n": {
+                            "en": ">50%",
+                            "ur": ">50%"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "66d490d4-3c81-4d9c-b4ce-abd1a242e546",
+            "title": {
+                "en": "How often are workers given health and safety training, such as appropriate use of equipment and use of personal protective equipment (PPE)?",
+                "ur": "کارکنوں کو کتنی بار صحت اور حفاظت کی تربیت دی جاتی ہے، جیسے آلات کا مناسب استعمال اور ذاتی حفاظتی سامان (PPE) کا استعمال؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 21,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [
+                    {
+                        "code": "we-do-not-provide-workers-with-health-and-saftey-training,-as-they-are-already-very-familiar-with-health-and-safety",
+                        "i18n": {
+                            "en": "We do not provide workers with health and saftey training, as they are already very familiar with health and safety",
+                            "ur": "ہم کارکنوں کو صحت اور حفاظت کی تربیت فراہم نہیں کرتے، کیونکہ وہ صحت اور حفاظت سے پہلے ہی بہت واقف ہیں۔"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Health & safety"
+                    },
+                    {
+                        "code": "we-provide-new-workers-with-health-and-safety-training-when-they-join",
+                        "i18n": {
+                            "en": "We provide new workers with health and safety training when they join",
+                            "ur": "ہم نئے کارکنوں کے شامل ہونے پر صحت اور حفاظت کی تربیت فراہم کرتے ہیں۔"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Health & safety"
+                    },
+                    {
+                        "code": "we-provide-all-workers-with-health-and-saftey-training-at-least-once-per-year",
+                        "i18n": {
+                            "en": "We provide all workers with health and saftey training at least once per year",
+                            "ur": "ہم تمام کارکنوں کو سال میں کم از کم ایک بار صحت اور حفاظتی تربیت فراہم کرتے ہیں۔"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7f0deb44-107c-4af2-8092-652b9396ab73",
+            "title": {
+                "en": "Do workers have to wear protective clothing and personal protective equipment (PPE) for any tasks at the site?",
+                "ur": "کیا کارکنوں کو سائٹ پر کسی کام کے لیے حفاظتی لباس اور ذاتی حفاظتی سامان (PPE) پہننا ہوگا؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 22,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Health & safety"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "fae2ae97-7cd2-4916-a6e6-1f893c1e97f5",
+            "title": {
+                "en": "Does the company provide professional/knowledge development training to workers? (this does not include health and safety training)",
+                "ur": "کیا کمپنی کارکنوں کو پیشہ ورانہ/علمی ترقی کی تربیت فراہم کرتی ہے؟ (اس میں صحت اور حفاظت کی تربیت شامل نہیں ہے)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 23,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        }
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8157aaf2-247b-4c7e-aafd-c212395f8919",
+            "title": {
+                "en": "What percentage of workers participating in this training in the last 12 months were women?",
+                "ur": "پچھلے 12 مہینوں میں اس ٹریننگ میں حصہ لینے والے کارکنوں میں سے کتنے فیصد خواتین تھیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 24,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "fae2ae97-7cd2-4916-a6e6-1f893c1e97f5",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "oneChoiceType": "radio",
+                "values": [
+                    {
+                        "code": "less-than-40%",
+                        "i18n": {
+                            "en": "Less than 40%",
+                            "ur": "چالیس فی صد سے کم"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Gender Discrimination"
+                    },
+                    {
+                        "code": "more-than-40%",
+                        "i18n": {
+                            "en": "More than 40%",
+                            "ur": "چالیس فی صد سے زیادہ"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "admin": {
+        "name": "ADMIN",
+        "permissions": [
+            "MANAGE_QR_CODES",
+            "VIEW_ALL_REPORTS",
+            "LOG_DNA_TEST_RESULTS",
+            "VIEW_DNA_TEST_RESULTS",
+            "VIEW_SUPPLIER_DETAILS",
+            "ADMINISTER_USERS",
+            "ADMINISTER_SITE_SETTINGS",
+            "ADMINISTER_FARM_GROUPS",
+            "SUBMIT_REPORTS"
+        ]
+    },
+    "superAdmin": {
+        "name": "SUPER_ADMIN",
+        "permissions": [
+            "ADD_EDIT_WEIGHTS_FOR_LABOR_INPUTS",
+            "ADD_EDIT_SCORING_FOR_RISK_ASSESSMENT",
+            "VIEW_SUPPLIER_DETAILS",
+            "ADMINISTER_ROLES_AND_PERMISSIONS",
+            "ADMINISTER_USERS"
+        ]
+    },
+    "farm": {
+        "name": "FARM",
+        "permissions": [
+            "REQUIRE_SAQ"
+        ]
+    },
+    "ginner": {
+        "name": "GINNER",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "USE_SYNTHETIC_DNA",
+            "USE_QR_CODE",
+            "INVITE_PARTNERS",
+            "VIEW_HISTORY",
+            "CALCULATE_MASS_BALANCE"
+        ]
+    },
+    "spinner": {
+        "name": "SPINNER",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "USE_SYNTHETIC_DNA",
+            "LOG_BY_PRODUCT",
+            "INVITE_PARTNERS",
+            "CALCULATE_MASS_BALANCE",
+            "CALCULATE_MARGIN_OF_ERROR",
+            "VIEW_HISTORY"
+        ]
+    },
+    "mill": {
+        "name": "MILL",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "USE_SYNTHETIC_DNA",
+            "LOG_BY_PRODUCT",
+            "INVITE_PARTNERS",
+            "CALCULATE_MASS_BALANCE",
+            "CALCULATE_TOTAL_INPUTS",
+            "VIEW_HISTORY"
+        ]
+    },
+    "farmMonitor": {
+        "name": "FARM_MONITOR",
+        "permissions": [
+            "VIEW_MY_REPORTS",
+            "PROACTIVE_ASSESSMENTS",
+            "RESPOND_TO_REQUESTS"
+        ]
+    },
+    "farmMonitorWeb": {
+        "name": "FARM_MONITOR_WEB",
+        "permissions": [
+            "VIEW_MY_REPORTS",
+            "PROACTIVE_ASSESSMENTS",
+            "RESPOND_TO_REQUESTS"
+        ]
+    },
+    "auditor": {
+        "name": "AUDITOR",
+        "permissions": [
+            "VIEW_MY_REPORTS",
+            "RESPOND_TO_REQUESTS",
+            "AUDIT_REQUESTS"
+        ]
+    },
+    "brand": {
+        "name": "BRAND",
+        "permissions": [
+            "TRACE_PRODUCTS",
+            "VIEW_SUPPLIER_DATABASE",
+            "VIEW_SUPPLIER_DETAILS",
+            "EXTENDED_PROFILE"
+        ]
+    }
+}

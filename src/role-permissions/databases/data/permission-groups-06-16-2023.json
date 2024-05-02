@@ -1,0 +1,27 @@
+[
+    {
+        "id": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "name": "Product Tracing",
+        "sortOrder": 0
+    },
+    {
+        "id": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "name": "Labor Reports",
+        "sortOrder": 1
+    },
+    {
+        "id": "fefc60bf-4241-448b-96c5-f1cf0d7e4b89",
+        "name": "DNA Management",
+        "sortOrder": 2
+    },
+    {
+        "id": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "name": "SAQ Management",
+        "sortOrder": 3
+    },
+    {
+        "id": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "name": "Administration",
+        "sortOrder": 5
+    }
+]

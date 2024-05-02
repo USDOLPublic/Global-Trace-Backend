@@ -1,0 +1,87 @@
+postgresql:
+  postgresqlUsername: postgres
+  postgresqlPassword: postgres
+  postgresqlDatabase: usdol
+
+redis:
+  architecture: standalone
+  auth:
+    enabled: false
+    password: ab1234
+
+backend:
+  replicaCount: 3
+  image:
+    repository: registry.gitlab.com/diginexhk/usdol/usdol-backend
+    tag: "{{ .Env.CI_PIPELINE_ID }}"
+    pullSecrets:
+      - usdol-backend-prod-dockercfg
+
+  dockercfg:
+    enabled: true
+    image:
+      pullSecret:
+        registry: registry.gitlab.com
+        username: josiah.choi_diginex
+        password: {{ .Env.IMAGE_REPOSITORY_PASSWORD }}
+
+  deployment:
+    enabled: true
+  service:
+    enabled: true
+    type: ClusterIP
+    ports:
+      default:
+        internal: 3000
+        external: 3000
+  resources:
+    requests:
+      cpu: 20m
+      memory: 64Mi
+  virtualService:
+    enabled: true
+    hosts:
+      - 'gtp-api.diginex.com'
+    gateways:
+      - default/ingressgateway-prod-diginex-com
+    routes:
+      default:
+        destination:
+          host: usdol-backend-prod-backend
+          port: 3000
+  env:
+    DATABASE_CONNECT: postgres
+    DATABASE_HOST: usdol-infra-prod-postgresql
+    DATABASE_PORT: 5432
+    DATABASE_USER: postgres
+    DATABASE_PASSWORD: postgres
+    DATABASE_NAME: usdol
+    REDIS_HOST: usdol-infra-prod-redis-master
+    APP_ENV: production
+    APP_PORT: 3000
+    JWT_SECRET: {{ .Env.JWT_SECRET }}
+    JWT_EXPIRE: 3d
+    JWT_REFRESH_SECRET: {{ .Env.JWT_REFRESH_SECRET }}
+    JWT_REFRESH_EXPIRE: 7d
+    WEB_URL: https://gtp.diginex.com
+    BACKEND_URL: https://gtp-api.diginex.com
+    MAILER_URL: smtp://mail.mail.svc.cluster.local:587?auth=false
+    MAIL_SEND_FROM: "Diginex USDOL <no-reply-usdol@diginex.com>"
+    WHITELIST_DOMAINS: localhost:*,0.0.0.0:*,127.0.0.1:*,*.dgnx.io
+    CONTACT_MAIL: support@diginex-usdol.com
+    THROTTLE_LIMIT: 1000
+    S3_ACCOUNT_NAME: {{ .Env.S3_ACCOUNT_NAME }}
+    S3_ACCOUNT_KEY: {{ .Env.S3_ACCOUNT_KEY }}
+    S3_BLOB_CONTAINER: usdol-dev
+    BRANCH_DYNAMIC_LINK_API_KEY: {{ .Env.BRANCH_DYNAMIC_LINK_API_KEY }}
+    RAPID_API_KEY: {{ .Env.RAPID_API_KEY }}
+    RAPID_API_GEODB_HOST: wft-geo-db.p.rapidapi.com
+    RAPID_API_GEODB_BASE_URL: https://wft-geo-db.p.rapidapi.com/v1/geo
+    RAPID_MAX_PAGE_LIMIT: 100
+    RAPID_MAX_REQUEST_PER_SECOND: 10
+    OPEN_APPAREL_REGISTRY_API_KEY: {{ .Env.OPEN_APPAREL_REGISTRY_API_KEY }}
+    OPEN_APPAREL_REGISTRY_BASE_URL: https://openapparel.org
+    GOOGLE_MAPS_API_KEY: {{ .Env.GOOGLE_MAPS_API_KEY }}
+    WEB_2_PDF_API_URL: https://web2pdf-api.diginex.com
+    WEB_2_PDF_API_KEY: {{ .Env.WEB_2_PDF_API_KEY }}
+    NODE_ENV: production

@@ -1,0 +1,380 @@
+[
+    {
+        "id": "a32f25cd-881e-45b1-9601-91b5092fa286",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ONBOARDING",
+        "name": "Onboarding",
+        "parentId": null,
+        "sortOrder": 1
+    },
+    {
+        "id": "0a107bbb-520d-4a42-994f-8dc9c882861d",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ONBOARD_OWN_ACCOUNT",
+        "name": "Onboard own account",
+        "parentId": "a32f25cd-881e-45b1-9601-91b5092fa286",
+        "sortOrder": 2
+    },
+    {
+        "id": "d4fa5617-b92a-43ec-ac40-f5dda57eebe3",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ONBOARDING_ADMIN",
+        "name": "Administrator onboards user",
+        "parentId": "a32f25cd-881e-45b1-9601-91b5092fa286",
+        "sortOrder": 3
+    },
+    {
+        "id": "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": null,
+        "action": "INVITE_PARTNERS",
+        "name": "Invite partners",
+        "parentId": null,
+        "sortOrder": 4
+    },
+    {
+        "id": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "LOG_PURCHASE",
+        "name": "Log purchase",
+        "parentId": null,
+        "sortOrder": 5
+    },
+    {
+        "id": "4f688b4f-3e06-4f0d-9910-1817fc7f2f95",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "INPUT_PRODUCT_ID",
+        "name": "Input product ID",
+        "parentId": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+        "sortOrder": 6
+    },
+    {
+        "id": "85d1c667-374f-417a-8ad3-89a94c55a4e3",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "SCAN_QR_CODE",
+        "name": "Scan QR Code",
+        "parentId": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+        "sortOrder": 7
+    },
+    {
+        "id": "df53ea1c-95d4-4230-89df-4a7cafb48419",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "MANUALLY_DEFINE_NEW_PRODUCT",
+        "name": "Manually define new product",
+        "parentId": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+        "sortOrder": 8
+    },
+    {
+        "id": "4dcb9eb6-35d2-45a3-bdbd-8ad4c265d45c",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ALLOW_PURCHASE_INTERMEDIARIES",
+        "name": "Allow purchase from intermediaries",
+        "parentId": "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+        "sortOrder": 9
+    },
+    {
+        "id": "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "LOG_TRANSFORMATIONS",
+        "name": "Log transformations",
+        "parentId": null,
+        "sortOrder": 10
+    },
+    {
+        "id": "1b7ec067-8e2b-4fc7-82bb-1bf4301cf1c4",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ASSIGN_PRODUCT_ID",
+        "name": "Assign product ID",
+        "parentId": "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+        "sortOrder": 11
+    },
+    {
+        "id": "84f81d9c-6b68-43b2-a77a-6d9874eef25d",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ASSIGN_QR_CODE",
+        "name": "Assign QR Code",
+        "parentId": "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+        "sortOrder": 12
+    },
+    {
+        "id": "0f4bcbf5-3c52-47a0-a15e-3a14383cf1e5",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ASSIGN_SYNTHETIC_DNA",
+        "name": "Assign synthetic DNA",
+        "parentId": "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+        "sortOrder": 13
+    },
+    {
+        "id": "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "LOG_SALE",
+        "name": "Log sale",
+        "parentId": null,
+        "sortOrder": 14
+    },
+    {
+        "id": "65f89c18-9672-4a2a-b83d-7a5c42d83e0f",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "INPUT_PRODUCT_ID",
+        "name": "Input product ID",
+        "parentId": "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+        "sortOrder": 15
+    },
+    {
+        "id": "af6f036a-2c02-4f43-8a9f-6505c682272b",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "SCAN_QR_CODE",
+        "name": "Scan QR Code",
+        "parentId": "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+        "sortOrder": 16
+    },
+    {
+        "id": "ff3b587c-94e9-4dd6-b916-2d8b48c1a5d3",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "ALLOW_SALE_INTERMEDIARIES",
+        "name": "Allow sale to intermediaries",
+        "parentId": "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+        "sortOrder": 17
+    },
+    {
+        "id": "e8c938f4-b6db-4165-887f-64c8707a5c45",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": null,
+        "action": "LOG_BY_PRODUCT",
+        "name": "Log by product",
+        "parentId": null,
+        "sortOrder": 18
+    },
+    {
+        "id": "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "LOG_TRANSPORT",
+        "name": "Log transport",
+        "parentId": null,
+        "sortOrder": 19
+    },
+    {
+        "id": "1f91c5e5-1c1f-4b60-bc88-02e9e2f3f9ac",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "INPUT_PRODUCT_ID",
+        "name": "Input product ID",
+        "parentId": "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076",
+        "sortOrder": 20
+    },
+    {
+        "id": "24e0f0b4-2a0f-47ab-8b53-df16e7865545",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": true,
+        "action": "SCAN_QR_CODE",
+        "name": "Scan QR Code",
+        "parentId": "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076",
+        "sortOrder": 21
+    },
+    {
+        "id": "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e",
+        "groupId": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "isMultiple": null,
+        "action": "VIEW_HISTORY",
+        "name": "View history",
+        "parentId": null,
+        "sortOrder": 22
+    },
+    {
+        "id": "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": true,
+        "action": "SUBMIT_REPORTS",
+        "name": "Submit reports",
+        "parentId": null,
+        "sortOrder": 23
+    },
+    {
+        "id": "63a315b3-ccf0-4d18-8ce1-17895e456c6a",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": true,
+        "action": "PROACTIVE_ASSESSMENTS",
+        "name": "Proactive assessments",
+        "parentId": "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+        "sortOrder": 24
+    },
+    {
+        "id": "1f432b6f-6df5-42f2-8182-0e4a31428ecb",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": true,
+        "action": "REACTIVE_ASSESSMENTS",
+        "name": "Reactive assessments",
+        "parentId": "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+        "sortOrder": 25
+    },
+    {
+        "id": "2f625cf1-b685-4326-8250-26422aa3ac3c",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": false,
+        "action": "VIEW_REPORTS",
+        "name": "View reports",
+        "parentId": null,
+        "sortOrder": 26
+    },
+    {
+        "id": "9131b752-e65f-4725-96b9-9084c05cc23e",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": false,
+        "action": "VIEW_ONLY_MY_REPORTS",
+        "name": "View only my reports",
+        "parentId": "2f625cf1-b685-4326-8250-26422aa3ac3c",
+        "sortOrder": 27
+    },
+    {
+        "id": "6e9335f3-7649-4b96-9943-6a1e96547f7a",
+        "groupId": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "isMultiple": false,
+        "action": "VIEW_ALL_REPORTS",
+        "name": "View all reports",
+        "parentId": "2f625cf1-b685-4326-8250-26422aa3ac3c",
+        "sortOrder": 28
+    },
+    {
+        "id": "d2d10b21-39a0-45c7-839f-09c98f157dec",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "DNA",
+        "name": "DNA",
+        "parentId": null,
+        "sortOrder": 29
+    },
+    {
+        "id": "82901b8a-5950-4e86-93db-088a7f14684e",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "VIEW_DNA_TEST_RESULTS",
+        "name": "View DNA test results",
+        "parentId": "d2d10b21-39a0-45c7-839f-09c98f157dec",
+        "sortOrder": 30
+    },
+    {
+        "id": "b57fbc21-7c2a-40ab-bf3a-e53a8231b4d7",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "LOG_DNA_TEST_RESULTS",
+        "name": "Log DNA test results",
+        "parentId": "d2d10b21-39a0-45c7-839f-09c98f157dec",
+        "sortOrder": 31
+    },
+    {
+        "id": "d9f9a0db-859f-4b52-9374-aa1ec32a0cf0",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": null,
+        "action": "GENERATE_QR_CODES",
+        "name": "Generate QR codes",
+        "parentId": null,
+        "sortOrder": 32
+    },
+    {
+        "id": "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "SUBMIT_GRIEVANCE_REPORTS",
+        "name": "Submit grievance reports",
+        "parentId": null,
+        "sortOrder": 33
+    },
+    {
+        "id": "b8f08d77-e0b1-4a29-8e81-2a4c732a1019",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "PROACTIVE_ASSESSMENTS",
+        "name": "Proactive assessments",
+        "parentId": "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+        "sortOrder": 34
+    },
+    {
+        "id": "c1c5e198-eaa5-4dbb-85b2-53bdc685d56c",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "REACTIVE_ASSESSMENTS",
+        "name": "Reactive assessments",
+        "parentId": "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+        "sortOrder": 35
+    },
+    {
+        "id": "0e6965d7-100f-41a6-9f61-041b01b78fc9",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "REFER_REPORT_FOR_FOLLOW_UP",
+        "name": "Refer report for follow up",
+        "parentId": "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+        "sortOrder": 36
+    },
+    {
+        "id": "cb6b4504-7a35-4f4e-b4d0-2a80b7184c76",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "USER_MANAGEMENT",
+        "name": "User management",
+        "parentId": null,
+        "sortOrder": 37
+    },
+    {
+        "id": "ca0199d7-e3e9-4e0b-9aeb-e57c61a6e43d",
+        "groupId": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "isMultiple": true,
+        "action": "VIEW_SUPPLIER_RISK_ASSESSMENT",
+        "name": "View supplier risk assessment",
+        "parentId": "cb6b4504-7a35-4f4e-b4d0-2a80b7184c76",
+        "sortOrder": 38
+    },
+    {
+        "id": "b364b4a7-2b0b-45c2-bc85-982f9aa53f9a",
+        "groupId": "b82562a8-9adb-450e-b4b4-379ff26fcf5f",
+        "isMultiple": null,
+        "action": "TRACE_PRODUCT",
+        "name": "Trace product",
+        "parentId": null,
+        "sortOrder": 39
+    },
+    {
+        "id": "30c5a6f4-d6db-49f4-93d1-eac5f1612292",
+        "groupId": "b82562a8-9adb-450e-b4b4-379ff26fcf5f",
+        "isMultiple": true,
+        "action": "SUPPLIER_MANAGEMENT",
+        "name": "Supplier management",
+        "parentId": null,
+        "sortOrder": 40
+    },
+    {
+        "id": "5e86a780-09e9-47b1-87a1-1bb9b78500d5",
+        "groupId": "b82562a8-9adb-450e-b4b4-379ff26fcf5f",
+        "isMultiple": true,
+        "action": "VIEW_SUPPLIER_RISK_ASSESSMENT",
+        "name": "View supplier risk assessment",
+        "parentId": "30c5a6f4-d6db-49f4-93d1-eac5f1612292",
+        "sortOrder": 41
+    },
+    {
+        "id": "1e92a065-32bf-47b4-90ed-87e7b49d2353",
+        "groupId": "b82562a8-9adb-450e-b4b4-379ff26fcf5f",
+        "isMultiple": null,
+        "action": "INVITE_PARTNERS",
+        "name": "Invite partners",
+        "parentId": "30c5a6f4-d6db-49f4-93d1-eac5f1612292",
+        "sortOrder": 42
+    }
+]

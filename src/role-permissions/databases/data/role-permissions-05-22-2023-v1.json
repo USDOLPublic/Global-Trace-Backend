@@ -1,0 +1,76 @@
+{
+    "admin": {
+        "name": "ADMIN",
+        "permissions": ["MANAGE_QR_CODES"]
+    },
+    "superAdmin": {
+        "name": "SUPER_ADMIN",
+        "permissions": ["ADD_EDIT_WEIGHTS_FOR_LABOR_INPUTS", "ADD_EDIT_SCORING_FOR_RISK_ASSESSMENT"]
+    },
+    "farm": {
+        "name": "FARM_GROUP",
+        "permissions": ["SUBMIT_OWN_SAQ", "LOG_PURCHASES", "LOG_TRANSPORT"]
+    },
+    "ginner": {
+        "name": "GINNER",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "USE_SYNTHETIC_DNA",
+            "USE_QR_CODE",
+            "INVITE_PARTNERS",
+            "VIEW_HISTORY",
+            "CALCULATE_MASS_BALANCE"
+        ]
+    },
+    "spinner": {
+        "name": "SPINNER",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "LOG_BY_PRODUCT",
+            "USE_BARCODE",
+            "INVITE_PARTNERS",
+            "CALCULATE_MASS_BALANCE",
+            "CALCULATE_MARGIN_OF_ERROR",
+            "VIEW_HISTORY"
+        ]
+    },
+    "mill": {
+        "name": "MILL",
+        "permissions": [
+            "REQUIRE_SAQ",
+            "SUBMIT_OWN_SAQ",
+            "LOG_PURCHASES",
+            "LOG_TRANSPORT",
+            "LOG_TRANSFORMATIONS",
+            "LOG_SALE",
+            "LOG_BY_PRODUCT",
+            "USE_BARCODE",
+            "INVITE_PARTNERS",
+            "CALCULATE_MASS_BALANCE",
+            "CALCULATE_TOTAL_INPUTS",
+            "VIEW_HISTORY"
+        ]
+    },
+    "farmMonitor": {
+        "name": "FARM_MONITOR",
+        "permissions": ["REQUIRE_SAQ", "SUBMIT_OWN_SAQ"]
+    },
+    "farmMonitorWeb": {
+        "name": "FARM_MONITOR_WEB",
+        "permissions": ["REQUIRE_SAQ", "SUBMIT_OWN_SAQ"]
+    },
+    "brand": {
+        "name": "BRAND",
+        "permissions": ["TRACE_ORDER"]
+    }
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "2ac93d35-dc43-44d1-b5d9-39f847bae4a4",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 6,
+        "setName": "Submit Reports",
+        "action": "SUBMIT_REPORTS",
+        "name": "Submit reports"
+    },
+    {
+        "id": "ff1b65c8-e7f9-49c7-844c-412cad1735ac",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 8,
+        "setName": null,
+        "action": "RESPOND_TO_REQUESTS",
+        "name": "Respond to requests"
+    },
+    {
+        "id": "467e4ab7-4dba-493d-acf4-a52fcdb6c6fb",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 13,
+        "setName": null,
+        "action": "ADMINISTER_FARM_GROUPS",
+        "name": "Administer farm groups"
+    },
+    {
+        "id": "22bc46bf-0cb3-4b78-9a5e-601eda48c812",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 8,
+        "setName": null,
+        "action": "AUDIT_REQUESTS",
+        "name": "Audit requests"
+    },
+    {
+        "id": "015de2ca-99f4-4ac6-8855-8e74840fe5aa",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 14,
+        "setName": null,
+        "action": "EXTENDED_PROFILE",
+        "name": "Extended profile"
+    }
+]

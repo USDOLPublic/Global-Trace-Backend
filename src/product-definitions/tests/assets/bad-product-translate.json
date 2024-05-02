@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Lot",
+        "nameTranslation": {
+            "en": "Lot"
+        }
+    },
+    {
+        "id": "b8056031-70a0-40d0-8995-b7b096b38ec4",
+        "nameTranslation": {
+            "en": "Yarn"
+        }
+    },
+    {
+        "id": "777",
+        "name": "Fabric",
+        "nameTranslation": {
+            "123": "Fabric"
+        }
+    },
+    {
+        "id": "24e6015c-ac22-4d56-b058-da487724d6ce",
+        "name": "Raw Cotton",
+        "nameTranslation": ""
+    },
+    {
+        "id": "24e6015c-ac22-4d56-b058-da487724d6ce",
+        "name": "Raw Cotton",
+        "nameTranslation": {
+            "en": 123
+        }
+    }
+]

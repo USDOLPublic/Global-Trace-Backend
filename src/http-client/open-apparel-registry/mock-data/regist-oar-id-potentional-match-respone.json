@@ -1,0 +1,40 @@
+{
+    "matches": [
+        {
+            "id": "PK2019303BQ3FZP",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.4643961, 30.7500849]
+            },
+            "properties": {
+                "name": "Nantong Jackbeanie Headwear Garment Co. Ltd.",
+                "address": "165 School Rd, Chak 667/8 GB, Toba Tek Singh, Punjab, Pakistan",
+                "countryCode": "PK",
+                "osId": "PK2019303BQ3FZP",
+                "otherNames": [],
+                "otherAddresses": [],
+                "contributors": [
+                    {
+                        "id": 4,
+                        "name": "Researcher A (Summer 2019 Affiliate List)",
+                        "isVerified": false
+                    }
+                ],
+                "countryName": "Pakistan",
+                "claimInfo": null,
+                "otherLocations": []
+            },
+            "confidence": 0.7685999999999999499067371289129368960857391357421875,
+            "confirmMatchUrl": "/api/facility-matches/135005/confirm/",
+            "rejectMatchUrl": "/api/facility-matches/135005/reject/"
+        }
+    ],
+    "itemId": 959,
+    "geocodedGeometry": {
+        "type": "Point",
+        "coordinates": [72.4643961, 30.7500849]
+    },
+    "geocodedAddress": "Toba Tek Singh District, Punjab, Pakistan",
+    "status": "POTENTIAL_MATCH"
+}

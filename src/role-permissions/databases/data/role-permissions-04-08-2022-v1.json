@@ -1,0 +1,12 @@
+[
+    {
+        "id": "54a69fa3-64c3-4141-8728-7161e8b56309",
+        "roleId": "5e429ca1-1a7f-42dc-b9f8-733caded03fe",
+        "permissionId": "6cdb282d-df92-49cf-be93-13252891496a"
+    },
+    {
+        "id": "bf825e66-31c5-43b1-92df-4161bd08c2a7",
+        "roleId": "5e429ca1-1a7f-42dc-b9f8-733caded03fe",
+        "permissionId": "88e21358-76b5-4ea2-8e62-fc5417ca33bf"
+    }
+]

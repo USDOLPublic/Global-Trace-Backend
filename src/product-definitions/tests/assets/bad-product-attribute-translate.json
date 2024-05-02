@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Trash Content",
+        "category": "LIST",
+        "nameTranslation": {
+            "en": "Trash Content",
+            "vn": "HAAH"
+        }
+    },
+    {
+        "id": "64f3d638-8c13-4a57-af76-5c1bf292aa30",
+        "category": "PERCENTAGE",
+        "nameTranslation": {
+            "en": "Moisture Level"
+        }
+    },
+    {
+        "id": "777",
+        "name": "Cotton Certification",
+        "category": "LIST",
+        "nameTranslation": {
+            "123": "Cotton Certification"
+        }
+    }
+]

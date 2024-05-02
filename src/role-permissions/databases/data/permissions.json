@@ -1,0 +1,194 @@
+[
+  {
+    "id": "0445349d-ec0d-4822-83b5-1d9cefd6ab02",
+    "group": "auth",
+    "action": "auth/login_logout",
+    "name": "[Auth] Login and logout"
+  },
+  {
+    "id": "418e5865-3579-4001-a92e-a72b8c4fa983",
+    "group": "user",
+    "action": "user/update_profile",
+    "name": "[User] Update profile"
+  },
+  {
+    "id": "887bdeef-67c0-49ca-8f5f-ad3acd1e6f7f",
+    "group": "saq",
+    "action": "saq/update_saq",
+    "name": "[SAQ] Update SAQ"
+  },
+  {
+    "id": "1e213f0f-55dd-46c3-956f-742f0c3765a2",
+    "group": "management",
+    "action": "management/manage_admin",
+    "name": "[Management] Manage Admin"
+  },
+  {
+    "id": "0c0cf7b0-b5f3-4a8d-b689-a211a63383cb",
+    "group": "management",
+    "action": "management/manage_brand",
+    "name": "[Manage] Manage Brand"
+  },
+  {
+    "id": "575a46f0-5184-4d0c-98e5-402fffbcded5",
+    "group": "management",
+    "action": "management/manage_auditor",
+    "name": "[Manage] Manage Auditor"
+  },
+  {
+    "id": "ae538172-4a4d-4ef4-ad47-6967d3334cae",
+    "group": "management",
+    "action": "management/manage_farm_monitor",
+    "name": "[Manage] Manage Farm monitor"
+  },
+  {
+    "id": "937ca838-793d-4206-a0dd-b715c4a5e76b",
+    "group": "management",
+    "action": "management/manage_farm",
+    "name": "[Manage] Manage Farm"
+  },
+  {
+    "id": "c43db49a-221a-49f4-8957-6e34b9be56ba",
+    "group": "management",
+    "action": "management/manage_broker",
+    "name": "[Manage] Manage Broker"
+  },
+  {
+    "id": "62aeb1aa-8d0c-439d-adad-c39eadbc6ab9",
+    "group": "management",
+    "action": "management/manage_spinner",
+    "name": "[Manage] Manage Spinner"
+  },
+  {
+    "id": "c07be38f-4197-4cec-8a55-2c193e9cb37a",
+    "group": "management",
+    "action": "management/manage_transporter",
+    "name": "[Manage] Manage Transporter"
+  },
+  {
+    "id": "fdef40f9-94c5-4829-b252-c256b76634c6",
+    "group": "management",
+    "action": "management/manage_ginner",
+    "name": "[Manage] Manage Ginner"
+  },
+  {
+    "id": "aa6ff70a-0e79-437f-91a8-3593e7aff193",
+    "group": "management",
+    "action": "management/manage_mill",
+    "name": "[Manage] Manage Mill"
+  },
+  {
+    "id": "4ab79599-dd50-4f3e-9ae6-6b0e8ea5f32e",
+    "group": "invitation",
+    "action": "invitation/invite_admin",
+    "name": "[Manage] Invite Admin"
+  },
+  {
+    "id": "92b47068-d8ac-4065-9350-695610199457",
+    "group": "invitation",
+    "action": "invitation/invite_brand",
+    "name": "[Manage] Invite Brand"
+  },
+  {
+    "id": "696434cf-5ef9-47a0-bb55-a44934f98362",
+    "group": "invitation",
+    "action": "invitation/invite_ginner",
+    "name": "[Manage] Invite Ginner"
+  },
+  {
+    "id": "acaa6b10-2557-404d-bb98-4e54f8d3f502",
+    "group": "invitation",
+    "action": "invitation/invite_farm",
+    "name": "[Manage] Invite Farm"
+  },
+  {
+    "id": "ceca19a4-def3-45a4-b3d4-3e6249ced44f",
+    "group": "invitation",
+    "action": "invitation/invite_spinner",
+    "name": "[Manage] Invite Spinner"
+  },
+  {
+    "id": "75502430-e385-4735-b489-f02ba830993b",
+    "group": "invitation",
+    "action": "invitation/invite_mill",
+    "name": "[Manage] Invite Mill"
+  },
+  {
+    "id": "53d0fe23-f8c7-4ff5-9396-8110dd0f5754",
+    "group": "invitation",
+    "action": "invitation/invite_broker",
+    "name": "[Manage] Invite Broker"
+  },
+  {
+    "id": "5501e751-6c29-4b74-8214-bed432210d5e",
+    "group": "invitation",
+    "action": "invitation/invite_transporter",
+    "name": "[Manage] Invite Transporter"
+  },
+  {
+    "id": "d72035c5-679e-47fb-8889-f762e057f624",
+    "group": "invitation",
+    "action": "invitation/invite_farm_monitor",
+    "name": "[Manage] Invite Farm monitor"
+  },
+  {
+    "id": "79f6ef0a-8860-4629-8546-12d62d1878f5",
+    "group": "invitation",
+    "action": "invitation/invite_auditor",
+    "name": "[Manage] Invite Auditor"
+  },
+  {
+    "id": "8c59a600-5a4b-4a04-a0ef-4377a071ee3d",
+    "group": "transaction",
+    "action": "transaction/purchase",
+    "name": "[Transaction] Purchase"
+  },
+  {
+    "id": "bb0ae46a-4a75-4957-b73f-c340c81c634e",
+    "group": "transaction",
+    "action": "transaction/sell",
+    "name": "[Transaction] Sell"
+  },
+  {
+    "id": "776f158f-990a-468a-8e10-bd7430fc43d8",
+    "group": "transformation",
+    "action": "transformation/assign_bale_id",
+    "name": "[Transformation] Assign Bale ID"
+  },
+  {
+    "id": "005906dd-96b0-4c06-8f15-564c5ac22e16",
+    "group": "transaction",
+    "action": "transaction/transport",
+    "name": "[Transaction] Transport"
+  },
+  {
+    "id": "2074a312-70aa-40cd-8c3c-4cdf99e188ac",
+    "group": "transformation",
+    "action": "transformation/assign_product_id",
+    "name": "[Transformation] Assign Product ID"
+  },
+  {
+    "id": "9058edf4-7483-426d-b679-0bc5e93ac8bd",
+    "group": "aggregation",
+    "action": "aggregation/record_by_product",
+    "name": "[Aggregation] Record by product"
+  },
+  {
+    "id": "6cdb282d-df92-49cf-be93-13252891496a",
+    "group": "calculation",
+    "action": "calculation/mass_balance",
+    "name": "[Calculation] Mass_balance"
+  },
+  {
+    "id": "88e21358-76b5-4ea2-8e62-fc5417ca33bf",
+    "group": "calculation",
+    "action": "calculation/margin_of_error",
+    "name": "[Calculation] Margin of error"
+  },
+  {
+    "id": "1b277e83-a478-40ed-8649-ba09fd2e0f98",
+    "group": "object",
+    "action": "object/register_oar_id",
+    "name": "[Object] Register OAR ID"
+  }
+]

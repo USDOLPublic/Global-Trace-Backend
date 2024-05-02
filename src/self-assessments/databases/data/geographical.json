@@ -1,0 +1,770 @@
+[
+    {
+        "country": "Afghanistan",
+        "risk": " 95 "
+    },
+    {
+        "country": "Albania",
+        "risk": " 36 "
+    },
+    {
+        "country": "Algeria",
+        "risk": " 72 "
+    },
+    {
+        "country": "Angola",
+        "risk": " 65 "
+    },
+    {
+        "country": "Antigua and Barbuda",
+        "risk": " 33 "
+    },
+    {
+        "country": "Argentina",
+        "risk": " 68 "
+    },
+    {
+        "country": "Armenia",
+        "risk": " 41 "
+    },
+    {
+        "country": "Australia",
+        "risk": " 7 "
+    },
+    {
+        "country": "Austria",
+        "risk": " 7 "
+    },
+    {
+        "country": "Azerbaijan",
+        "risk": " 63 "
+    },
+    {
+        "country": "Bahamas",
+        "risk": " 21 "
+    },
+    {
+        "country": "Bahrain",
+        "risk": " 40 "
+    },
+    {
+        "country": "Bangladesh",
+        "risk": " 64 "
+    },
+    {
+        "country": "Barbados",
+        "risk": " 33 "
+    },
+    {
+        "country": "Belarus",
+        "risk": " 71 "
+    },
+    {
+        "country": "Belgium",
+        "risk": " 11 "
+    },
+    {
+        "country": "Belize",
+        "risk": " 67 "
+    },
+    {
+        "country": "Benin",
+        "risk": " 60 "
+    },
+    {
+        "country": "Bhutan",
+        "risk": "33"
+    },
+    {
+        "country": "Bolivia, Plurinational State of",
+        "risk": " 71 "
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "risk": " 35 "
+    },
+    {
+        "country": "Botswana",
+        "risk": " 55 "
+    },
+    {
+        "country": "Brazil",
+        "risk": " 60 "
+    },
+    {
+        "country": "Brunei Darussalam",
+        "risk": " 66 "
+    },
+    {
+        "country": "Bulgaria",
+        "risk": " 46 "
+    },
+    {
+        "country": "Burkina Faso",
+        "risk": " 63 "
+    },
+    {
+        "country": "Burundi",
+        "risk": " 55 "
+    },
+    {
+        "country": "Cambodia",
+        "risk": " 86 "
+    },
+    {
+        "country": "Cameroon",
+        "risk": " 68 "
+    },
+    {
+        "country": "Canada",
+        "risk": " 11 "
+    },
+    {
+        "country": "Cape Verde",
+        "risk": " 33 "
+    },
+    {
+        "country": "Central African Republic",
+        "risk": " 77 "
+    },
+    {
+        "country": "Chad",
+        "risk": " 95 "
+    },
+    {
+        "country": "Chile",
+        "risk": " 22 "
+    },
+    {
+        "country": "China",
+        "risk": " 82 "
+    },
+    {
+        "country": "Colombia",
+        "risk": " 76 "
+    },
+    {
+        "country": "Comoros",
+        "risk": " 33 "
+    },
+    {
+        "country": "Costa Rica",
+        "risk": " 52 "
+    },
+    {
+        "country": "Ivory Coast",
+        "risk": " 46 "
+    },
+    {
+        "country": "Croatia",
+        "risk": " 31 "
+    },
+    {
+        "country": "Cuba",
+        "risk": " 71 "
+    },
+    {
+        "country": "Curaçao",
+        "risk": " 100 "
+    },
+    {
+        "country": "Cyprus",
+        "risk": " 21 "
+    },
+    {
+        "country": "Czech Republic",
+        "risk": " 13 "
+    },
+    {
+        "country": "Congo, the Democratic Republic of the",
+        "risk": " 76 "
+    },
+    {
+        "country": "Denmark",
+        "risk": " 6 "
+    },
+    {
+        "country": "Djibouti",
+        "risk": " 79 "
+    },
+    {
+        "country": "Dominica",
+        "risk": " 50 "
+    },
+    {
+        "country": "Dominican Republic",
+        "risk": " 69 "
+    },
+    {
+        "country": "Ecuador",
+        "risk": " 60 "
+    },
+    {
+        "country": "Egypt",
+        "risk": " 75 "
+    },
+    {
+        "country": "El Salvador",
+        "risk": " 73 "
+    },
+    {
+        "country": "Equatorial Guinea",
+        "risk": " 84 "
+    },
+    {
+        "country": "Eritrea",
+        "risk": " 83 "
+    },
+    {
+        "country": "Estonia",
+        "risk": " 15 "
+    },
+    {
+        "country": "Swaziland",
+        "risk": " 75 "
+    },
+    {
+        "country": "Ethiopia",
+        "risk": " 67 "
+    },
+    {
+        "country": "Fiji",
+        "risk": " 33 "
+    },
+    {
+        "country": "Finland",
+        "risk": " 5 "
+    },
+    {
+        "country": "France",
+        "risk": " 13 "
+    },
+    {
+        "country": "French Guiana",
+        "risk": " 50 "
+    },
+    {
+        "country": "Gabon",
+        "risk": " 62 "
+    },
+    {
+        "country": "Gambia",
+        "risk": " 45 "
+    },
+    {
+        "country": "Georgia",
+        "risk": " 38 "
+    },
+    {
+        "country": "Germany",
+        "risk": " 11 "
+    },
+    {
+        "country": "Ghana",
+        "risk": " 59 "
+    },
+    {
+        "country": "Greece",
+        "risk": " 27 "
+    },
+    {
+        "country": "Guatemala",
+        "risk": " 63 "
+    },
+    {
+        "country": "Guinea",
+        "risk": " 66 "
+    },
+    {
+        "country": "Guinea-Bissau",
+        "risk": " 90 "
+    },
+    {
+        "country": "Guyana",
+        "risk": " 41 "
+    },
+    {
+        "country": "Haiti",
+        "risk": " 66 "
+    },
+    {
+        "country": "Honduras",
+        "risk": " 65 "
+    },
+    {
+        "country": "Hong Kong",
+        "risk": " 31 "
+    },
+    {
+        "country": "Hungary",
+        "risk": " 26 "
+    },
+    {
+        "country": "Iceland",
+        "risk": " 31 "
+    },
+    {
+        "country": "India",
+        "risk": " 63 "
+    },
+    {
+        "country": "Indonesia",
+        "risk": " 61 "
+    },
+    {
+        "country": "Iran, Islamic Republic of",
+        "risk": " 89 "
+    },
+    {
+        "country": "Iraq",
+        "risk": " 74 "
+    },
+    {
+        "country": "Ireland",
+        "risk": " 21 "
+    },
+    {
+        "country": "Israel",
+        "risk": " 34 "
+    },
+    {
+        "country": "Italy",
+        "risk": " 27 "
+    },
+    {
+        "country": "Jamaica",
+        "risk": " 39 "
+    },
+    {
+        "country": "Japan",
+        "risk": " 22 "
+    },
+    {
+        "country": "Jordan",
+        "risk": " 41 "
+    },
+    {
+        "country": "Kazakhstan",
+        "risk": " 58 "
+    },
+    {
+        "country": "Kenya",
+        "risk": " 66 "
+    },
+    {
+        "country": "Kosovo",
+        "risk": " 37 "
+    },
+    {
+        "country": "Kuwait",
+        "risk": " 52 "
+    },
+    {
+        "country": "Kyrgyzstan",
+        "risk": " 63 "
+    },
+    {
+        "country": "Lao People's Democratic Republic",
+        "risk": " 42 "
+    },
+    {
+        "country": "Latvia",
+        "risk": " 25 "
+    },
+    {
+        "country": "Lebanon",
+        "risk": " 75 "
+    },
+    {
+        "country": "Lesotho",
+        "risk": " 64 "
+    },
+    {
+        "country": "Liberia",
+        "risk": " 63 "
+    },
+    {
+        "country": "Libya",
+        "risk": " 90 "
+    },
+    {
+        "country": "Liechtenstein",
+        "risk": " 50 "
+    },
+    {
+        "country": "Lithuania",
+        "risk": " 21 "
+    },
+    {
+        "country": "Luxembourg",
+        "risk": " 25 "
+    },
+    {
+        "country": "Macao SAR",
+        "risk": " 64 "
+    },
+    {
+        "country": "Madagascar",
+        "risk": " 75 "
+    },
+    {
+        "country": "Malawi",
+        "risk": " 63 "
+    },
+    {
+        "country": "Malaysia",
+        "risk": " 68 "
+    },
+    {
+        "country": "Maldives",
+        "risk": " 33 "
+    },
+    {
+        "country": "Mali",
+        "risk": " 69 "
+    },
+    {
+        "country": "Malta",
+        "risk": " 33 "
+    },
+    {
+        "country": "Marshall Islands",
+        "risk": " 66 "
+    },
+    {
+        "country": "Mauritania",
+        "risk": " 66 "
+    },
+    {
+        "country": "Mauritius",
+        "risk": " 43 "
+    },
+    {
+        "country": "Mexico",
+        "risk": " 64 "
+    },
+    {
+        "country": "Micronesia, Federated States of",
+        "risk": " 33 "
+    },
+    {
+        "country": "Moldova, Republic of",
+        "risk": " 34 "
+    },
+    {
+        "country": "Mongolia",
+        "risk": " 61 "
+    },
+    {
+        "country": "Montenegro",
+        "risk": " 66 "
+    },
+    {
+        "country": "Morocco",
+        "risk": " 39 "
+    },
+    {
+        "country": "Mozambique",
+        "risk": " 78 "
+    },
+    {
+        "country": "Myanmar",
+        "risk": " 89 "
+    },
+    {
+        "country": "Namibia",
+        "risk": " 40 "
+    },
+    {
+        "country": "Nepal",
+        "risk": " 60 "
+    },
+    {
+        "country": "Netherlands",
+        "risk": " 6 "
+    },
+    {
+        "country": "New Zealand",
+        "risk": " 20 "
+    },
+    {
+        "country": "Nicaragua",
+        "risk": " 85 "
+    },
+    {
+        "country": "Niger",
+        "risk": " 70 "
+    },
+    {
+        "country": "Nigeria",
+        "risk": " 70 "
+    },
+    {
+        "country": "Korea, Democratic People's Republic of",
+        "risk": " 89 "
+    },
+    {
+        "country": "North Macedonia",
+        "risk": " 36 "
+    },
+    {
+        "country": "Norway",
+        "risk": " 17 "
+    },
+    {
+        "country": "Oman",
+        "risk": " 37 "
+    },
+    {
+        "country": "Pakistan",
+        "risk": " 71 "
+    },
+    {
+        "country": "Palau",
+        "risk": " 33 "
+    },
+    {
+        "country": "Panama",
+        "risk": " 55 "
+    },
+    {
+        "country": "Papua New Guinea",
+        "risk": " 89 "
+    },
+    {
+        "country": "Paraguay",
+        "risk": " 60 "
+    },
+    {
+        "country": "Peru",
+        "risk": " 60 "
+    },
+    {
+        "country": "Philippines",
+        "risk": " 83 "
+    },
+    {
+        "country": "Poland",
+        "risk": " 26 "
+    },
+    {
+        "country": "Portugal",
+        "risk": " 20 "
+    },
+    {
+        "country": "Qatar",
+        "risk": " 36 "
+    },
+    {
+        "country": "Congo",
+        "risk": " 71 "
+    },
+    {
+        "country": "Romania",
+        "risk": " 29 "
+    },
+    {
+        "country": "Russian Federation",
+        "risk": " 87 "
+    },
+    {
+        "country": "Rwanda",
+        "risk": " 62 "
+    },
+    {
+        "country": "Saint Lucia",
+        "risk": " 33 "
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "risk": " 33 "
+    },
+    {
+        "country": "Samoa",
+        "risk": " 50 "
+    },
+    {
+        "country": "Saudi Arabia",
+        "risk": " 43 "
+    },
+    {
+        "country": "Senegal",
+        "risk": " 62 "
+    },
+    {
+        "country": "Serbia",
+        "risk": " 50 "
+    },
+    {
+        "country": "Seychelles",
+        "risk": " 41 "
+    },
+    {
+        "country": "Sierra Leone",
+        "risk": " 63 "
+    },
+    {
+        "country": "Singapore",
+        "risk": " 24 "
+    },
+    {
+        "country": "Sint Maarten",
+        "risk": " 100 "
+    },
+    {
+        "country": "Slovakia",
+        "risk": " 25 "
+    },
+    {
+        "country": "Slovenia",
+        "risk": " 21 "
+    },
+    {
+        "country": "Solomon Islands",
+        "risk": " 66 "
+    },
+    {
+        "country": "Somalia",
+        "risk": " 99 "
+    },
+    {
+        "country": "South Africa",
+        "risk": " 59 "
+    },
+    {
+        "country": "Korea, Republic of",
+        "risk": " 31 "
+    },
+    {
+        "country": "South Sudan",
+        "risk": " 100 "
+    },
+    {
+        "country": "Spain",
+        "risk": " 10 "
+    },
+    {
+        "country": "Sri Lanka",
+        "risk": " 44 "
+    },
+    {
+        "country": "Sudan",
+        "risk": " 72 "
+    },
+    {
+        "country": "Suriname",
+        "risk": " 67 "
+    },
+    {
+        "country": "Sweden",
+        "risk": " 7 "
+    },
+    {
+        "country": "Switzerland",
+        "risk": " 23 "
+    },
+    {
+        "country": "Syrian Arab Republic",
+        "risk": " 92 "
+    },
+    {
+        "country": "Taiwan",
+        "risk": " 61 "
+    },
+    {
+        "country": "Tajikistan",
+        "risk": " 67 "
+    },
+    {
+        "country": "Tanzania, United Republic of",
+        "risk": " 62 "
+    },
+    {
+        "country": "Thailand",
+        "risk": " 60 "
+    },
+    {
+        "country": "Timor-Leste",
+        "risk": " 42 "
+    },
+    {
+        "country": "Togo",
+        "risk": " 45 "
+    },
+    {
+        "country": "Tonga",
+        "risk": " 33 "
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "risk": " 52 "
+    },
+    {
+        "country": "Tunisia",
+        "risk": " 40 "
+    },
+    {
+        "country": "Turkey",
+        "risk": " 61 "
+    },
+    {
+        "country": "Turkmenistan",
+        "risk": " 82 "
+    },
+    {
+        "country": "Tuvalu",
+        "risk": " 50 "
+    },
+    {
+        "country": "Uganda",
+        "risk": " 65 "
+    },
+    {
+        "country": "Ukraine",
+        "risk": " 60 "
+    },
+    {
+        "country": "United Arab Emirates",
+        "risk": " 36 "
+    },
+    {
+        "country": "United Kingdom",
+        "risk": " 14 "
+    },
+    {
+        "country": "United States",
+        "risk": " 25 "
+    },
+    {
+        "country": "Uruguay",
+        "risk": " 30 "
+    },
+    {
+        "country": "Uzbekistan",
+        "risk": " 63 "
+    },
+    {
+        "country": "Vanuatu",
+        "risk": " 66 "
+    },
+    {
+        "country": "Venezuela, Bolivarian Republic of",
+        "risk": " 89 "
+    },
+    {
+        "country": "Vietnam",
+        "risk": " 55 "
+    },
+    {
+        "country": "Yemen",
+        "risk": " 96 "
+    },
+    {
+        "country": "Zambia",
+        "risk": " 64 "
+    },
+    {
+        "country": "Zimbabwe",
+        "risk": " 69 "
+    }
+]

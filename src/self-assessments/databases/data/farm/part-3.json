@@ -1,0 +1,1248 @@
+{
+    "id": "4f2b0da5-6536-4cab-9055-b487c2d43ded",
+    "forRole": "FARM",
+    "groupTitle": {
+        "en": "Farm Level Risk Assessment",
+        "ur": "Farm Level Risk Assessment"
+    },
+    "riskScoreLevel": [],
+    "order": 2,
+    "description": null,
+    "questions": [
+        {
+            "id": "e459ad3b-2f1a-4fc5-acf6-9b233d3e27b8",
+            "title": {
+                "en": "Is the total farm size 1.9 Hectares or less?",
+                "ur": "کیا کُل فارم سائز 1.9ہیکٹیئر ہے یا کم ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 1,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Manual labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "72d19619-c8c0-4fd0-9c50-99558498bb81",
+            "title": {
+                "en": "What is the total number of male workers (excluding management) at the farm?",
+                "ur": "فارم میں مرد ورکرز کی  کُل تعداد کتنی ہے؟( فارم انتظامیہ کے بغیر)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 2,
+            "type": "NUMBER",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "men",
+                        "answerValueValidateSchema":  {
+                            "rule": "number"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "24b37a59-f711-4017-a29c-e57c2e8be79d",
+            "title": {
+                "en": "What is the total number of female workers (excluding management) at the farm?",
+                "ur": "فارم میں  خواتین ورکرز کی  کُل تعداد کتنی ہے؟(انتظامیہ کے بغیر)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 3,
+            "type": "NUMBER",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "women",
+                        "answerValueValidateSchema":  {
+                            "rule": "number"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "632430a7-a9a2-4acd-9111-48e59fd87227",
+            "title": {
+                "en": "What percentage of management (including trainers, supervisors, and/or other high level functions) at the site are women?",
+                "ur": "سائٹ پر منیجمنٹ کا کتنے  فیصد خواتین ہیں؟(بشمول ٹرینرز، سپروائزرز، اور یا دوسرے ہائی لیول فنگشنز)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 4,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "less-than-40%",
+                        "i18n": {
+                            "en": "Less than 40%",
+                            "ur": "چالیس فی صد سے کم"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Gender Discrimination"
+                    },
+                    {
+                        "code": "more-than-40%",
+                        "i18n": {
+                            "en": "More than 40%",
+                            "ur": "چالیس فی صد سے زیادہ"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "d9701251-051a-4b83-920a-807591be4a2d",
+            "title": {
+                "en": "Does cotton production mostly rely on manual labor for any of the following activities: land preparation, sowing, weeding, or harvest?",
+                "ur": "زمین کی تیاری، بجائی، گھاس یا کٹائی کیلئے کیا کپاس کی پیداوار زیادہ تر دستی لیبر پر انحصار کرتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 5,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Manual labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "d5c03897-f06d-4ede-8c51-3f7c121ce51c",
+            "title": {
+                "en": "Does the farm have any tenant workers (landlords give land against fixed annual rent)?",
+                "ur": "کیا فارم میں کرایہ دار مزدور ہیں؟(مالک زمین مقررہ سالانہ کرایہ دیتا ہے)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 6,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Seasonal labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4c00abce-8acb-42f3-bea9-3b20c094af87",
+            "title": {
+                "en": "If there are tenant workers, do any children (under age of 18) live at the site with their parents?",
+                "ur": "کیا کرایہ دار مزدوروں میں اٹھارہ سال سے کم عمر بچے سائٹ پر اپنے والدین کے ساتھ رہتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 7,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "d5c03897-f06d-4ede-8c51-3f7c121ce51c",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "51ce44eb-8f1d-4a61-b5e7-b3fe7843e399",
+            "title": {
+                "en": "Does the farm have any partnerships with sharecropper (hari) workers? (i.e. the land and all expenditures are contributed by the farmer, and all labor work is done by the tenant/hari, and the tenant/hari gets a share of the profit)",
+                "ur": "کیا فارم کا حصہ دار (ہاری) ورکرز کے ساتھ کوئی شراکت ہے؟ (یعنی زمین اور تمام اخراجات کسان کے ذریعے ادا کیے جاتے ہیں، اور تمام مزدوری کا کام کرایہ دار/ہاری کرتا ہے، اور کرایہ دار/ہاری کو منافع کا حصہ ملتا ہے)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 8,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded Labor / Child labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "132b2f5b-cbdf-4c1d-98fb-4a2552950c80",
+            "title": {
+                "en": "If there are sharecropper workers, do any children (under age of 18) live at the site with their parents?",
+                "ur": "اگر حصص کاشت کرنے والے کارکن ہیں، کیا کوئی بچہ (18 سال سے کم عمر) اپنے والدین کے ساتھ سائٹ پر رہتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 9,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "51ce44eb-8f1d-4a61-b5e7-b3fe7843e399",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (Bonded Child Labor)"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "4445774a-2de6-4867-96c3-2d74bb405603",
+            "title": {
+                "en": "Does the cotton farms rely on seasonal or temporary workers at some point during the season (i.e. harvest)?",
+                "ur": "کیا کپاس کے فارم موسم (یعنی فصل کی کٹائی/چنائی) کے دوران کسی وقت موسمی یا عارضی کارکنوں پر انحصار کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 10,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Seasonal labor / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "744e7157-c538-4512-91c6-505bc7d530e1",
+            "title": {
+                "en": "Do workers often travel from different regions/provinces/states for the purpose of working on the farm? [e.g. Nomadic haris including Bheels and Parkari Kolhis]",
+                "ur": "کیا ورکرز فارم پر کام کرنے کے مقصد سے اکثر مختلف علاقوں/صوبوں/ریاستوں سے سفر کرتے ہیں؟ [مثلاً خانہ بدوش ہاری بشمول بھیل اور پارکاری کولہی]"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 11,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Internal Migrants / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "c55a69f2-32c6-436d-83ab-52acec55b9f6",
+            "title": {
+                "en": "If (workers comes from different regions), do any of these workers bring their children?",
+                "ur": "اگر (مزدور مختلف علاقوں سے آتے ہیں) تو کیا ان میں سے کوئی کارکن اپنے بچوں کو لاتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 12,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "744e7157-c538-4512-91c6-505bc7d530e1",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6d8a7801-01f2-4c01-a388-bece7fc0d840",
+            "title": {
+                "en": "Do international migrants work on the cotton farm?",
+                "ur": "کیا بین الاقوامی تارکین وطن کپاس کے فارم پر کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 13,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Foreign Migrant / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "ac6fe476-4434-435c-acd4-2efa554cfe48",
+            "title": {
+                "en": "Are there groups of workers working on cotton farms who speak a different language or belong to a different religious, ethnic, or social group than their employers? (e.g. Christian and Hindu Dalits)",
+                "ur": "کیا کپاس کے فارموں پر کام کرنے والے کارکنوں کے ایسے گروپ ہیں جو مختلف زبان بولتے ہیں یا اپنے آجروں سے مختلف مذہبی، نسلی، یا سماجی گروہ سے تعلق رکھتے ہیں؟ (مثلاً عیسائی اور ہندو دلت)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 14,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Discrimination"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7f7f1f6c-e17d-4732-a7d1-065f9ae98291",
+            "title": {
+                "en": "Are workers provided loans or wage advances by farmers or labour recruiters?",
+                "ur": "کیا مزدوروں کو کسانوں یا مزدور بھرتی کرنے والوں کے ذریعہ قرض یا اجرت کی پیشگی فراہم کی جاتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 15,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded labour / Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+
+        {
+            "id": "9bdd5fbb-7dfa-4049-8810-62ac4532c31f",
+            "title": {
+                "en": "Are labour recruiters/intermediaries involved in hiring or supplying any workers for cotton production?",
+                "ur": "کیا مزدور بھرتی کرنے والے/بمڈل مین کپاس کی پیداوار کے لیے کسی مزدور کو بھرتی کرنے یا سپلائی کرنے میں شامل ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 16,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "38d44a0d-b43a-4aa8-b751-50a192c79692",
+            "title": {
+                "en": "Is accommodation (temporary or permenant) provided to any workers by farmers or labour recruiters?",
+                "ur": "کیا کسانوں یا مزدور بھرتی کرنے والوں کی طرف سے کسی کارکن کو رہائش (عارضی یا مستقل) فراہم کی جاتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 17,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Bonded Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "dd9c5b7e-b8bb-4b75-8550-801a3bb7670e",
+            "title": {
+                "en": "If accomodation is provided, do any children (under age of 18) live at the site with their parents?",
+                "ur": "اگر رہائش فراہم کی جاتی ہے، کیا کوئی بچہ (18 سال سے کم عمر) اپنے والدین کے ساتھ سائٹ پر رہتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 18,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "38d44a0d-b43a-4aa8-b751-50a192c79692",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Worst Forms of Child Labor (Bonded Child Labor)"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "842a0486-6009-4efd-a84e-6c582601dece",
+            "title": {
+                "en": "Does the site require proof of age and does it make note of this when hiring workers?",
+                "ur": "کیا سائٹ کو عمر کا ثبوت درکار ہے اور کیا وہ کارکنوں کو ملازمت دیتے وقت اس بات کو نوٹ کرتی ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 19,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+            "title": {
+                "en": "Does anyone under the age of 18 work at the site?",
+                "ur": "کیا 18 سال سے کم عمر کوئی بھی سائٹ پر کام کرتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 20,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "6bcd39c9-14cf-49a3-8c85-d8f43996661f",
+            "title": {
+                "en": "If yes(<18 years), does workers under age of 8 work at the farm?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا 8 سال سے کم عمر کے کارکن فارم پر کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 21,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "519736cd-3645-425b-b893-d112c3938c07",
+            "title": {
+                "en": "If yes(<18 years), does workers in the 8-11 age group work at the farm?",
+                "ur": "اگر ہاں (18 سال)، کیا 8-11 سال کی عمر کے کارکن فارم پر کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 22,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "102de855-e3b3-4466-a63e-41e18b5a6c39",
+            "title": {
+                "en": "If yes(<18 years), does workers in the 12-15 age group work at the farm?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا 12-15 سال کی عمر کے کارکن فارم پر کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 23,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "254d6a4a-ad72-447c-8edf-d6a3f302a2eb",
+            "title": {
+                "en": "If yes(<18 years), does workers in the 16-17 age group work at the farm?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا 16-17 سال کی عمر کے کارکن فارم پر کام کرتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 24,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "200df34c-aa7f-430a-8dc0-025ff8ea28a6",
+            "title": {
+                "en": "If yes(<18 years), do all of the young workers below school leaving age (16) also attend school?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا اسکول چھوڑنے کی عمر (16) سے کم عمر کے تمام نوجوان کارکن بھی اسکول جاتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 25,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child Labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child Labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "db8fcd57-8480-4a2a-8245-72b640373a80",
+            "title": {
+                "en": "If yes(<18 years), has management identified any tasks, processes or other working conditions that could be hazardous to young workers?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا انتظامیہ نے کسی ایسے کام، عمل یا کام کے دیگر حالات کی نشاندہی کی ہے جو نوجوان کارکنوں کے لیے خطرناک ہو سکتے ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 26,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (work which may harm the health, safety or morals of children)"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b1abee44-ec43-4089-98d5-7cf6662cbf7f",
+            "title": {
+                "en": "If yes(<18 years), do any young workers do the following?\n-work in excess of 7hrs/day and 42 hrs/week?\n-work overnight shifts\n-Expose to chemicals and other noxious substances\n-Heavy lifting\n-Exposure to heavy or dangerous machinery or tools\n-Any other conditions that can be considered hazardous?",
+                "ur": "اگر ہاں (18 سال سے کم عمر)، کیا کوئی نوجوان کارکن مندرجہ ذیل کام کرتا ہے۔  سات گھنٹے/ دن اور 42 گھنٹے/ ہفتہ سے زیادہ کام؟\nرات کی شفٹوں میں کام کریں۔\nکیمیکلز اور دیگر نقصان دہ مادوں کے سامنے\nبھاری وزن اٹھانا\nبھاری یا خطرناک مشینری یا ٹولزکے ساتھ کام-کوئی دوسری شرائط جو خطرناک سمجھی جا سکتی ہیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 27,
+            "type": "YES_NO",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "7d2d4043-f5a0-4ba7-8c77-247579582f53",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (work which may harm the health, safety or morals of children)"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bf4fd5ae-5d80-4721-9ba5-6692ebb87560",
+            "title": {
+                "en": "Does the farm recognise any trade unions?",
+                "ur": "کیا فارم کسی ٹریڈ یونین کو تسلیم کرتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 28,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "b4f14269-e6a2-4141-ab3b-427dc953a487",
+            "title": {
+                "en": "If yes(farm recognise trade unions), what percentage of the workforce is unionised?",
+                "ur": "اگر ہاں (فارم ٹریڈ یونینوں کو تسلیم کرتے ہیں)، ورک فورس کا کتنا فیصد یونین پر مشتمل ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 29,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "bf4fd5ae-5d80-4721-9ba5-6692ebb87560",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "0",
+                        "i18n": {
+                            "en": "0",
+                            "ur": "0"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": "1%-50%",
+                        "i18n": {
+                            "en": "1%-50%",
+                            "ur": "1%-50%"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": ">50%",
+                        "i18n": {
+                            "en": ">50%",
+                            "ur": ">50%"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8c265445-6761-4ecc-aba7-93a867695595",
+            "title": {
+                "en": "If yes(farm recognise trade unions), what percentage of the workforce is covered by collective bargaining agreements?",
+                "ur": "اگر ہاں (فارم ٹریڈ یونینوں کو تسلیم کرتے ہیں)، تو کتنے فیصد افرادی قوت کو اجتماعی سودے بازی کے معاہدوں میں شامل کیا جاتا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 30,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "bf4fd5ae-5d80-4721-9ba5-6692ebb87560",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "0",
+                        "i18n": {
+                            "en": "0",
+                            "ur": "0"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": "1%-50%",
+                        "i18n": {
+                            "en": "1%-50%",
+                            "ur": "1%-50%"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Freedom of Association & Collective Bargaining"
+                    },
+                    {
+                        "code": ">50%",
+                        "i18n": {
+                            "en": ">50%",
+                            "ur": ">50%"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "c32bad63-9362-4089-825b-c754935ae1ce",
+            "title": {
+                "en": "Does the farm provide all workers with health and safety training, such as use of safe spraying techniques and appropriate use of equipment?",
+                "ur": "کیا فارم تمام کارکنوں کو صحت اور حفاظت کی تربیت فراہم کرتا ہے، جیسے محفوظ سپرے کی تکنیکوں کا استعمال اور آلات کا مناسب استعمال؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 31,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Health & safety"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "fb563a14-1473-49a3-bead-249505ac7c2f",
+            "title": {
+                "en": "Does the farm provide all workers with protective clothing and personal protective equipment (PPE), and train them in how and when to use it?",
+                "ur": "کیا فارم تمام کارکنوں کو حفاظتی لباس اور ذاتی حفاظتی سامان (پی پی ای) فراہم کرتا ہے، اور انہیں تربیت دیتا ہے کہ اسے کیسے اور کب استعمال کرنا ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 32,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Health & safety"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "e640ac5c-172a-4378-9bd7-57fefa1a9026",
+            "title": {
+                "en": "Does the farm provide professional/knowledge development training to workers? (this does not include health and safety training)",
+                "ur": "کیا فارم کارکنوں کو پیشہ ورانہ/علمی ترقی کی تربیت فراہم کرتا ہے؟ (اس میں صحت اور حفاظت کی تربیت شامل نہیں ہے)"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 33,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        }
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": "8eb8e191-d3dd-4b6e-afc4-05a519e784cc",
+            "title": {
+                "en": "If yes(farm providing professional/knowledge development training), what percentage of workers participating in this training in the last 12 months were women?",
+                "ur": "اگر ہاں (پیشہ ورانہ/علمی ترقی کی تربیت فراہم کرنے والا فارم)، تو پچھلے 12 مہینوں میں اس تربیت میں حصہ لینے والے کارکنوں کی کتنی فیصد خواتین تھیں؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 34,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "conditions": [
+                {
+                    "questionId": "e640ac5c-172a-4378-9bd7-57fefa1a9026",
+                    "answer": "yes"
+                }
+            ],
+            "metadata": {
+                "values": [
+                    {
+                        "code": "less-than-40%",
+                        "i18n": {
+                            "en": "Less than 40%",
+                            "ur": "چالیس فی صد سے کم"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Gender Discrimination"
+                    },
+                    {
+                        "code": "more-than-40%",
+                        "i18n": {
+                            "en": "More than 40%",
+                            "ur": "چالیس فی صد سے زیادہ"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        }
+    ]
+}

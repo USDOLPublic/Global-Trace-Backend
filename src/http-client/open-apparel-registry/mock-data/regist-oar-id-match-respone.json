@@ -1,0 +1,48 @@
+{
+    "matches": [
+        {
+            "id": "PK2019303BQ3FZP",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [72.464677, 30.748078]
+            },
+            "properties": {
+                "name": "Madrisah Taleem-ul-Quran Co. Ltd.",
+                "address": "59 Ghazi Rd, Chak 667/8 GB, Toba Tek Singh, Punjab, Pakistan",
+                "countryCode": "PK",
+                "osId": "PK2019303BQ3FZP",
+                "otherNames": [],
+                "otherAddresses": [],
+                "contributors": [
+                    {
+                        "id": 4,
+                        "name": "Researcher A (Summer 2019 Affiliate List)",
+                        "isVerified": false
+                    },
+                    {
+                        "id": 12,
+                        "name": "Brand B",
+                        "isVerified": false
+                    }
+                ],
+                "countryName": "Pakistan",
+                "claimInfo": null,
+                "otherLocations": [],
+                "ppeProductTypes": ["Masks", "Gloves"],
+                "ppeContactPhone": "123-456-7890",
+                "ppeContactEmail": "ppe@example.com",
+                "ppeWebsite": "https://example.com/ppe"
+            },
+            "confidence": 0.81530000000000002469136006766348145902156829833984375
+        }
+    ],
+    "itemId": 964,
+    "geocodedGeometry": {
+        "type": "Point",
+        "coordinates": [72.464677, 30.748078]
+    },
+    "geocodedAddress": "Toba Tek Singh, Punjab, Pakistan",
+    "status": "MATCHED",
+    "osId": "PK2019303BQ3FZP"
+}

@@ -1,0 +1,55 @@
+version: '3.3'
+services:
+
+  #  app:
+  #    build: ./
+  #    ports:
+  #      - 2009:3000
+  #    volumes:
+  #    - .env:/usr/src/app/dist/.env
+  #    environment:
+  #      REDIS_HOST: redis
+  #      DATABASE_HOST: postgres
+  #      DATABASE_NAME: usdol
+  #      DATABASE_CONNECT: postgres
+  #      DATABASE_USER: test
+  #      DATABASE_PASSWORD: test
+  #      JWT_SECRET: diginex
+  #      JWT_EXPIRE: 7d
+  #    networks:
+  #      - webnet
+  mailtrap:
+    image: eaudeweb/mailtrap
+    ports:
+      - 6666:80
+      - "127.0.0.1:${SMTP_PORT}:25"
+    networks:
+      - webnet
+  adminer:
+    image: adminer:latest
+    ports:
+      - 4083:8080
+    networks:
+      - webnet
+  redis:
+    image: redis:5
+    ports:
+      - ${REDIS_PORT}:6379
+    networks:
+      - webnet
+  postgres:
+    image: postgres:11
+    volumes:
+      - data-volume:/data/db
+    ports:
+      - ${DATABASE_PORT}:5432
+    environment:
+      POSTGRES_PASSWORD: ${DATABASE_PASSWORD}
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_DB: ${DATABASE_NAME}
+    networks:
+      - webnet
+networks:
+  webnet:
+volumes:
+  data-volume:

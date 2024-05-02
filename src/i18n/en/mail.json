@@ -1,0 +1,6 @@
+{
+    "reset_password_subject": "Resetting your password for {productName}",
+    "invite_admin_subject": "Invitation to join {productName} Supply Chain",
+    "invite_user_subject": "{name} invite you to join {productName} Supply Chain",
+    "welcome_user_subject": "Welcome to {productName} Supply Chain"
+}

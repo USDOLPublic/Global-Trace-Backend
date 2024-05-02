@@ -1,0 +1,494 @@
+[
+    {
+        "en": "Internal or foreign migrants",
+        "ur": "اندرونی یا غیر ملکی تارکین وطن"
+    },
+    {
+        "en": "Minority groups",
+        "ur": "اقلیتی گروہ"
+    },
+    {
+        "en": "Multiple dependency on employer (jobs for relatives, housing)",
+        "ur": "آجر پر متعدد انحصار (رشتہ داروں کے لیے ملازمتیں، رہائش)"
+    },
+    {
+        "en": "No awareness raising around worker rights, risks related to child labor, or the risk of forced, compulsory, and bonded labour at the site",
+        "ur": "کارکن کے حقوق، چائلڈ لیبر سے متعلق خطرات، یا سائٹ پر جبری، لازمی، اور بندھوا مزدوری کے خطرے کے بارے میں کوئی بیداری پیدا نہیں کی گئی"
+    },
+    {
+        "en": "No grievance mechanism to effectively receive and respond to complaints",
+        "ur": "مؤثر طریقے سے وصول کرنے اور جواب دینے کے لیے شکایت کا کوئی طریقہ کار نہیں ہے۔"
+    },
+    {
+        "en": "Pre-existence of a dependency relationship with employer",
+        "ur": "آجر کے ساتھ انحصار کے تعلقات کا پہلے سے وجود"
+    },
+    {
+        "en": "Religious retribution",
+        "ur": "مذہبی انتقام"
+    },
+    {
+        "en": "Seasonal or temporary labor",
+        "ur": "موسمی یا عارضی مشقت"
+    },
+    {
+        "en": "Contamination of water bodies with suspended solids and/or chemicals and fuel residues that put the livelihoods of other water users at risk",
+        "ur": "معلق ٹھوس اور/یا کیمیکلز اور ایندھن کی باقیات کے ساتھ آبی ذخائر کی آلودگی جس سے پانی استعمال کرنے والوں کی زندگی خطرے میں پڑ جاتی ہے۔"
+    },
+    {
+        "en": "Workers not using or maintaining appropriate, basic PPE",
+        "ur": "کارکنان مناسب، بنیادی PPE استعمال یا برقرار نہیں رکھ رہے ہیں۔"
+    },
+    {
+        "en": "Accommodation does not comply with health, safety, and occupation requirements",
+        "ur": "رہائش صحت، حفاظت اور پیشے کے تقاضوں کی تعمیل نہیں کرتی ہے۔"
+    },
+    {
+        "en": "Alternate forms of punishment (deprivation of food, water, sleep)",
+        "ur": "سزا کی متبادل شکلیں (کھانے، پانی، نیند سے محرومی)"
+    },
+    {
+        "en": "Site found to be linked to committing war crimes or other serious violations of international humanitarian law, crimes against humanity, or genocide",
+        "ur": "یہ سائٹ جنگی جرائم یا بین الاقوامی انسانی قانون کی دیگر سنگین خلاف ورزیوں، انسانیت کے خلاف جرائم، یا نسل کشی کے ارتکاب سے منسلک پائی گئی۔"
+    },
+    {
+        "en": "Bonded labor",
+        "ur": " باونڈڈلیبر"
+    },
+    {
+        "en": "Constant surveillance",
+        "ur": "مسلسل نگرانی"
+    },
+    {
+        "en": "Deterioration in working conditions",
+        "ur": "کام کے حالات میں بگاڑ"
+    },
+    {
+        "en": "Extra work for breaching labor discipline",
+        "ur": "لیبر ڈسپلن کی خلاف ورزی کے لیے اضافی کام"
+    },
+    {
+        "en": "Forced engagement in illicit activities",
+        "ur": "غیر قانونی سرگرمیوں میں زبردستی ملوث ہونا"
+    },
+    {
+        "en": "Inadequate fire safety equipment and training",
+        "ur": "آگ سے بچاؤ کے آلات اور تربیت ناکافی ہے۔"
+    },
+    {
+        "en": "Inadequate lighting in facility",
+        "ur": "سہولت  یا فیکٹری میں ناکافی روشنی"
+    },
+    {
+        "en": "Inadequate medical assistance for work-related accidents",
+        "ur": "کام سے متعلق حادثات کے لیے ناکافی طبی امداد"
+    },
+    {
+        "en": "Inadequate provision of PPE (e.g dust masks, ear protection)",
+        "ur": "پی پی ای کی ناکافی فراہمی (مثلاً ڈسٹ ماسک، کان کی حفاظت)"
+    },
+    {
+        "en": "Inadequate safety railings on raised platforms",
+        "ur": " بلندی پر بنائے گئے پلیٹ فارمز پر ناکافی حفاظتی ریلنگ"
+    },
+    {
+        "en": "Inadequate shielding from rotating or moving components",
+        "ur": "گھومنے یا حرکت کرنے والے اجزاء سے ناکافی شیڈنگ"
+    },
+    {
+        "en": "Inadequate training for specialised machinery",
+        "ur": "خصوصی مشینری کے لیے ناکافی تربیت"
+    },
+    {
+        "en": "Inadequate training for use of chemicals and hazardous substances",
+        "ur": "کیمیکلز اور خطرناک مادوں کے استعمال کے لیے ناکافی تربیت"
+    },
+    {
+        "en": "Induced addiction to illegal substances",
+        "ur": "غیر قانونی مادوں کی حوصلہ افزائی کی لت"
+    },
+    {
+        "en": "Legally insufficient rest periods after consecutive hours of work",
+        "ur": "مسلسل کام کے گھنٹوں کے بعد قانونی طور پر ناکافی آرام کی مدت"
+    },
+    {
+        "en": "Site and transportation routes are illegally controlled by non-state armed groups",
+        "ur": "سائٹ اور نقل و حمل کے راستے غیر ریاستی مسلح گروپوں کے زیر کنٹرول ہیں۔"
+    },
+    {
+        "en": "No changes to work duties after sickness or injury",
+        "ur": "بیماری یا چوٹ کے بعد کام کے فرائض میں کوئی تبدیلی نہیں۔"
+    },
+    {
+        "en": "No changes to work duties for pregnant workers",
+        "ur": "حاملہ کارکنوں کے لیے کام کے فرائض میں کوئی تبدیلی نہیں کی گئی۔"
+    },
+    {
+        "en": "No first aid and basic health services for its members",
+        "ur": "اس کے اراکین کے لیے کوئی ابتدائی طبی امداد اور بنیادی صحت کی سہولیات نہیں ہیں۔"
+    },
+    {
+        "en": "No freedom to resign in accordance with legal requirements",
+        "ur": "قانونی تقاضوں کے مطابق استعفیٰ دینے کی آزادی نہیں۔"
+    },
+    {
+        "en": "No or low mechanization in workplace",
+        "ur": "کام کی جگہ پر میکانائزیشن نہیں یا کم ہے۔"
+    },
+    {
+        "en": "No or low occurrences of standards-based audits",
+        "ur": "معیارات پر مبنی آڈٹ کی کوئی یا کم موجودگی"
+    },
+    {
+        "en": "No safety plan found that includes contingency measures in the event of an accident",
+        "ur": "وئی حفاظتی منصوبہ نہیں ملا جس میں حادثے کی صورت میں ہنگامی اقدامات شامل ہوں۔"
+    },
+    {
+        "en": "Pollution of air (e.g. dust) and soil at the site and surrounding communities",
+        "ur": "سائٹ اور آس پاس کی کمیونٹیز پر ہوا (مثلاً دھول) اور مٹی کی آلودگی"
+    },
+    {
+        "en": "Reduced freedom to terminate contract after training or other benefit paid by employer",
+        "ur": "تربیت یا آجر کے ذریعہ ادا کردہ دیگر فوائد کے بعد معاہدہ ختم کرنے کی آزادی میں کمی"
+    },
+    {
+        "en": "Removal of rights or privileges",
+        "ur": "حقوق یا مراعات کا خاتمہ"
+    },
+    {
+        "en": "Site lack adequate ventilation or access to air to enable workers to breath freely and without danger to their respiratory health",
+        "ur": "سائٹ میں مناسب وینٹیلیشن یا ہوا تک رسائی کا فقدان ہے تاکہ کارکنوں کو آزادانہ اور ان کی سانس کی صحت کو خطرہ کے بغیر سانس لینے کے قابل بنایا جا سکے۔"
+    },
+    {
+        "en": "Verbal working arrangements/no written agreement",
+        "ur": "زبانی کام کے انتظامات/کوئی تحریری معاہدہ نہیں۔"
+    },
+    {
+        "en": "Workers are forced to engage in work that is unreasonably hazardous",
+        "ur": "کارکنوں کو ایسے کام میں مشغول کرنے پر مجبور کیا جاتا ہے جو غیر معقول حد تک خطرناک ہو۔"
+    },
+    {
+        "en": "Workers are forced to engage in work under extreme environmental conditions",
+        "ur": "مزدور انتہائی ماحولیاتی حالات میں کام میں مشغول ہونے پر مجبور ہیں۔"
+    },
+    {
+        "en": "Workers are not trained on emergency preparedness",
+        "ur": "کارکنوں کو ہنگامی تیاریوں کی تربیت نہیں دی جاتی"
+    },
+    {
+        "en": "Workers are punished if they remove themselves from work situations that they believe present an imminent and serious danger to health",
+        "ur": "کارکنوں کو سزا دی جاتی ہے اگر وہ اپنے آپ کو کام کے حالات سے ہٹاتے ہیں جن کے بارے میں ان کے خیال میں صحت کے لیے ایک نا گزیر اور سنگین خطرہ ہے۔"
+    },
+    {
+        "en": "Workers not provided sufficient drinking water",
+        "ur": "کارکنوں کو پینے کا صاف پانی فراہم نہیں کیا گیا۔"
+    },
+    {
+        "en": "Workplace does not comply with health, safety, and occupation requirements",
+        "ur": "کام کی جگہ صحت، حفاظت اور پیشے کے تقاضوں کی تعمیل نہیں کرتی ہے۔"
+    },
+    {
+        "en": "Workplace is not designed for emergency evacuation (e.g. locked emergency exits)",
+        "ur": "کام کی جگہ کو ہنگامی انخلاء کے لیے ڈیزائن نہیں کیا گیا ہے (مثلاً لاک ایمرجنسی ایگزٹ)"
+    },
+    {
+        "en": "Child paid less than adults for same work",
+        "ur": "بچے کو ایک ہی کام کے لیے بالغوں سے کم معاوضہ ملتا ہے۔"
+    },
+    {
+        "en": "Child paid little or nothing",
+        "ur": "بچے کو بہت کم یا کچھ نہیں دیا۔"
+    },
+    {
+        "en": "Child working during school hours",
+        "ur": "اسکول کے اوقات میں کام کرنے والا بچہ"
+    },
+    {
+        "en": "Children within facility but not working",
+        "ur": "بچے سہولت کے اندر ہیں لیکن کام نہیں کر رہے ہیں۔"
+    },
+    {
+        "en": "Children within facility for food provision",
+        "ur": "خوراک کی فراہمی کے لیے سہولت کے اندر بچے"
+    },
+    {
+        "en": "Children working alongside family member(s)",
+        "ur": "خاندان کے ارکان کے ساتھ کام کرنے والے بچے"
+    },
+    {
+        "en": "Children working in isolation from family",
+        "ur": "خاندان سے الگ تھلگ کام کرنے والے بچے"
+    },
+    {
+        "en": "Hazardous work",
+        "ur": "خطر ناک کام"
+    },
+    {
+        "en": "Lax system to verify age of worker",
+        "ur": "ورکر کی عمر کی تصدیق کے لیے کمزور نظام"
+    },
+    {
+        "en": "Long hours",
+        "ur": "طویل گھنٹوں"
+    },
+    {
+        "en": "Migrant child",
+        "ur": "مہاجر بچہ"
+    },
+    {
+        "en": "No system to verify age of workers",
+        "ur": "کارکنوں کی عمر کی تصدیق کا کوئی نظام نہیں۔"
+    },
+    {
+        "en": "Non hazardous work",
+        "ur": "غیر  خطر ناک  کام"
+    },
+    {
+        "en": "Work at night",
+        "ur": "رات کو کام کرنا"
+    },
+    {
+        "en": "Work longer hours than allowed by law",
+        "ur": "قانون طور پر درج وقت سے زیادہ  کام کروانا۔"
+    },
+    {
+        "en": "Workers aged under 15",
+        "ur": " پندرہ  سال سے کم عمر کے کارکن"
+    },
+    {
+        "en": "Contractors charge worker advanced fees or share of crop",
+        "ur": "ٹھیکیدار کارکن سے ایڈوانس فیس یا فصل کا حصہ وصول کرتے ہیں۔"
+    },
+    {
+        "en": "Landowner making advanced payment to worker",
+        "ur": "زمین کا مالک مزدور کو پیشگی ادائیگی کر رہا ہے۔"
+    },
+    {
+        "en": "Deception about job location or employer",
+        "ur": "ملازمت کے مقام یا آجر کے بارے میں دھوکہ"
+    },
+    {
+        "en": "Deception about nature of the work",
+        "ur": "کام کی نوعیت کے بارے میں دھوکہ"
+    },
+    {
+        "en": "Deception about wages or earnings",
+        "ur": "اجرت یا کمائی کے بارے میں دھوکہ"
+    },
+    {
+        "en": "Forced to work for employer's private home or family",
+        "ur": "آجر کے نجی گھر یا خاندان کے لیے کام کرنے پر مجبور"
+    },
+    {
+        "en": "Forced overtime beyond legal limits",
+        "ur": "قانونی حدود سے باہر جبری اوور ٹائم"
+    },
+    {
+        "en": "Forced to work on call (day and night)",
+        "ur": "زبردستی کام کیلئے بلانا (دن اور رات) میں"
+    },
+    {
+        "en": "Blackmail",
+        "ur": "بلیک میل کرنا"
+    },
+    {
+        "en": "Forced work as punishment for participation in a strike",
+        "ur": "ہڑتال میں شرکت کی سزا کے طور پر جبری کام"
+    },
+    {
+        "en": "Other coercive tactics",
+        "ur": "دیگر زبردستی کے حربے"
+    },
+    {
+        "en": "Threats against family members",
+        "ur": "گھر والوں کو دھمکیاں"
+    },
+    {
+        "en": "Threats of  deportation, visa cancellation, or reporting to authorities",
+        "ur": "ملک بدری، ویزا منسوخی، یا حکام کو رپورٹ کرنے کی دھمکیاں"
+    },
+    {
+        "en": "Violence or threats of violence for engaging in union activities",
+        "ur": "یونین کی سرگرمیوں میں شامل ہونے پر تشدد یا تشدد کی دھمکیاں"
+    },
+    {
+        "en": "Violence or threats of violence to intimidate workers",
+        "ur": "کارکنوں کو ڈرانے کے لیے تشدد یا تشدد کی دھمکیاں"
+    },
+    {
+        "en": "Confiscation of mobile phones outside of work hours",
+        "ur": "کام کے اوقات سے باہر موبائل فون ضبط کرنا"
+    },
+    {
+        "en": "Locked in workplace or living quarters",
+        "ur": "کام کی جگہ یا رہنے والے کوارٹرز میں بند"
+    },
+    {
+        "en": "Worker performing duties isolated from other workers",
+        "ur": "ڈیوٹی انجام دینے والا کارکن دوسرے کارکنوں سے الگ تھلگ"
+    },
+    {
+        "en": "None",
+        "ur": "کوئی نہیں۔"
+    },
+    {
+        "en": "Physical violence",
+        "ur": "جسمانی تشدد"
+    },
+    {
+        "en": "Sexual harassment (e.g. unwanted sexual advances, comments, jokes)",
+        "ur": "جنسی طور پر ہراساں کرنا (مثلاً ناپسندیدہ جنسی پیش رفت، تبصرے، لطیفے)"
+    },
+    {
+        "en": "Sexual violence (e.g. physical acts of a sexual nature)",
+        "ur": "جنسی تشدد (مثلاً جنسی نوعیت کے جسمانی اعمال)"
+    },
+    {
+        "en": "Violence against workers in front of other workers",
+        "ur": "دوسرے کارکنوں کے سامنے کارکنوں پر تشدد"
+    },
+    {
+        "en": "Employer restricts workers from leaving",
+        "ur": "آجر کارکنوں کو باہر جانے سے روکتا ہے۔"
+    },
+    {
+        "en": "Limited freedom of movement and communication",
+        "ur": "نقل و حرکت اور مواصلات کی محدود آزادی"
+    },
+    {
+        "en": "Identity or travel documents confiscated",
+        "ur": "شناختی یا سفری دستاویزات ضبط"
+    },
+    {
+        "en": "Identity or travel documents kept by employer (suggestion that it may be returned)",
+        "ur": "آجر کی طرف سے رکھی گئی شناخت یا سفری دستاویزات (تجویز کہ اسے واپس کیا جا سکتا ہے)"
+    },
+    {
+        "en": "Financial penalties",
+        "ur": "مالی جرمانے"
+    },
+    {
+        "en": "Inaccurate wage payment details",
+        "ur": "اجرت کی ادائیگی کی غلط تفصیلات"
+    },
+    {
+        "en": "Incorrect payment for legally required leave",
+        "ur": "قانونی طور پر مطلوبہ چھٹی کے لیے غلط ادائیگی"
+    },
+    {
+        "en": "Incorrect payment for overtime",
+        "ur": "اوور ٹائم کے لیے غلط ادائیگی"
+    },
+    {
+        "en": "Late payment of wages (after work is completed)",
+        "ur": "اجرت کی تاخیر سے ادائیگی (کام مکمل ہونے کے بعد)"
+    },
+    {
+        "en": "Late payment of wages until work is completed",
+        "ur": "کام مکمل ہونے تک اجرت کی ادائیگی میں تاخیر"
+    },
+    {
+        "en": "Payment below minimum wage",
+        "ur": "کم از کم اجرت سے نیچے ادائیگی"
+    },
+    {
+        "en": "Unauthorized wage deductions",
+        "ur": "غیر مجاز اجرت میں کٹوتیاں"
+    },
+    {
+        "en": "Wages withheld as a commission for recruiter",
+        "ur": "بھرتی کرنے والے کے لیے بطور کمیشن اجرت روک لی گئی۔"
+    },
+    {
+        "en": "Withholding of assets (cash or other)",
+        "ur": "اثاثوں کی روک تھام (نقد یا دیگر)"
+    },
+    {
+        "en": "Withholding of wages",
+        "ur": "اجرت روکنا"
+    },
+    {
+        "en": "Manual Labour",
+        "ur": "دستی مزدوری"
+    },
+    {
+        "en": "Incomplete documentation on product origin",
+        "ur": "پروڈکٹ کے اصل مقام کی نامکمل دستاویزات"
+    },
+    {
+        "en": "Incomplete policy of disclosing suppliers",
+        "ur": "فراہم کنندگان کو ظاہر کرنے کی نامکمل پالیسی"
+    },
+    {
+        "en": "Incomplete policy of disclosing sub-contractors",
+        "ur": "ذیلی ٹھیکیداروں کو ظاہر کرنے کی نامکمل پالیسی"
+    },
+    {
+        "en": "Limited use of product tracking systems",
+        "ur": "پروڈکٹ ٹریکنگ سسٹمز کا محدود استعمال"
+    },
+    {
+        "en": "Does not require suppliers to exercise due diligence over the cotton supply chain in accordance with the OECD Due Diligence Guidance",
+        "ur": "او ای سی ڈی ڈیو ڈیلیجنس گائیڈینس کے مطابق سپلائی  کرنے والوں کو کپاس کی سپلائی چین پر مستعدی سے کام لینے کی ضرورت نہیں ہے۔"
+    },
+    {
+        "en": "Review process does not include corrective action management in a way that can mitigate risks with a mechanism to track indicators of improvement",
+        "ur": "جائزہ کے عمل میں اصلاحی کارروائی کا انتظام اس طرح شامل نہیں ہے جو بہتری کے اشاریوں کو ٹریک کرنے کے طریقہ کار سے خطرات کو کم کر سکے۔"
+    },
+    {
+        "en": "Failure to embed responsible business conduct in enterprise policy and management system",
+        "ur": "انٹرپرائز پالیسی اور انتظامی نظام میں ذمہ دار کاروباری طرز عمل کو سرایت کرنے میں ناکامی۔"
+    },
+    {
+        "en": "Does not require suppliers to exercise due diligence over supply chain in accordance with the OECD Due Diligence Guidance",
+        "ur": "او ای سی ڈی    ڈیو ڈیلیجنس گائیڈنس کے مطابق سپلائرز کو سپلائی چین پر مستعدی سے کام لینے کی ضرورت نہیں ہے"
+    },
+    {
+        "en": "No information captured or provided during assessment related to the form, type, weight and physical description of products",
+        "ur": "مصنوعات کی شکل، قسم، وزن اور جسمانی وضاحت سے متعلق تشخیص کے دوران کوئی معلومات حاصل نہیں کی گئی یا فراہم نہیں کی گئی۔"
+    },
+    {
+        "en": "Failure to require that suppliers whose due diligence practices have been validated by an independent third party audit or assessment program",
+        "ur": "یہ مطالبہ کرنے میں ناکامی کہ ایسے سپلائرز جن کی ڈیو ڈیلیجنس کے طریقہ کار کو کسی آزاد فریق ثالث کے آڈٹ یا تشخیصی پروگرام کے ذریعے توثیق کیا گیا ہو۔"
+    },
+    {
+        "en": "Company does not conduct a supply chain survey of relevant suppliers",
+        "ur": "کمپنی متعلقہ سپلائرز کا سپلائی چین سروے نہیں کرتی ہے۔"
+    },
+    {
+        "en": "Failure to review due diligence information received from suppliers",
+        "ur": "سپلائرز سے موصول ہونے والی ڈیو ڈیلیجنس سے متعلق معلومات کا جائزہ لینے میں ناکامی۔"
+    },
+    {
+        "en": "Incomplete documentation on purchases",
+        "ur": "خریداری پر نامکمل دستاویزات"
+    },
+    {
+        "en": "Incomplete documentation on sales",
+        "ur": "فروخت پر نامکمل دستاویزات"
+    },
+    {
+        "en": "Incomplete documentation on transport",
+        "ur": "نقل و حمل سے متعلق نامکمل دستاویزات"
+    },
+    {
+        "en": "Missing audit",
+        "ur": "نا مکمل آڈٹ"
+    },
+    {
+        "en": "Failed DNA Test",
+        "ur": "ڈی این اے ٹیسٹ میں ناکام"
+    },
+    {
+        "en": "No publicly available sourcing policy",
+        "ur": "کوئی عوامی طور پر دستیاب سورسنگ پالیسی"
+    },
+    {
+        "en": "Policy fails to cover all risks in the OECD Due Diligence Guidance Annex II Model Policy or the worst forms of child labor",
+        "ur": "پالیسی او ای سی ڈی ڈیو ڈیلیجنس گائیڈنس ضمیمہ II ماڈل پالیسی یا چائلڈ لیبر کی بدترین شکلوں کے تمام خطرات کو پورا کرنے میں ناکام ہے۔"
+    },
+    {
+        "en": "The organisation does not publish an annual due diligence implementation report",
+        "ur": "تنظیم سالانہ واجب الادا عمل درآمد کی رپورٹ شائع نہیں کرتی ہے۔"
+    }
+]

@@ -1,0 +1,9 @@
+dependencies:
+  - name: postgresql
+    version: ~10.16.2
+    repository: '@bitnami'
+    alias: postgresql
+  - name: redis
+    version: ~16.10.1
+    repository: '@bitnami'
+    alias: redis

@@ -1,0 +1,6 @@
+export enum RegisterOarIdStatusEnum {
+    MATCHED = 'MATCHED',
+    POTENTIAL_MATCH = 'POTENTIAL_MATCH',
+    NEW_FACILITY = 'NEW_FACILITY',
+    ERROR_MATCHING = 'ERROR_MATCHING'
+}

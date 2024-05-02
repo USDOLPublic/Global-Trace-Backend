@@ -1,0 +1,68 @@
+[
+    {
+        "id": "60433431-422f-436c-af59-a63c86b58907",
+        "category": "LIST",
+        "name": "Trash Content",
+        "nameTranslation": {
+            "en": "Trash Content",
+            "ur": "HAAH"
+        },
+        "options": [
+            {
+                "value": "High",
+                "translation": {
+                    "en": "High",
+                    "ur": "High"
+                }
+            },
+            {
+                "value": "Medium",
+                "translation": {
+                    "en": "Medium",
+                    "ur": "High"
+                }
+            },
+            {
+                "value": "Low",
+                "translation": {
+                    "en": "Low",
+                    "ur": "High"
+                }
+            }
+        ]
+    },
+    {
+        "id": "64f3d638-8c13-4a57-af76-5c1bf292aa30",
+        "category": "PERCENTAGE",
+        "name": "Moisture Level",
+        "nameTranslation": {
+            "en": "Moisture Level",
+            "ur": "Moisture Level"
+        }
+    },
+    {
+        "id": "34690763-d59c-4e55-b04d-0fc94fc828fa",
+        "category": "LIST",
+        "name": "Cotton Certification",
+        "nameTranslation": {
+            "en": "Cotton Certification",
+            "ur": "Cotton Certification"
+        },
+        "options": [
+            {
+                "value": "ABRAPA",
+                "translation": {
+                    "en": "ABRAPA",
+                    "ur": "ABRAPA"
+                }
+            },
+            {
+                "value": "BASF e3",
+                "translation": {
+                    "en": "BASF e3",
+                    "ur": "BASF e3"
+                }
+            }
+        ]
+    }
+]

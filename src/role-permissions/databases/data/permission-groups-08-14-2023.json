@@ -1,0 +1,22 @@
+[
+    {
+        "id": "08388e05-f3dd-495d-89b4-7a3456ad31be",
+        "name": "Product",
+        "sortOrder": 0
+    },
+    {
+        "id": "0af3c7fe-ec1b-4570-8c1d-40b8773fff6f",
+        "name": "Labour",
+        "sortOrder": 1
+    },
+    {
+        "id": "5706ee52-92fe-42df-9453-d11b9d2d5fda",
+        "name": "Administrator",
+        "sortOrder": 2
+    },
+    {
+        "id": "b82562a8-9adb-450e-b4b4-379ff26fcf5f",
+        "name": "Brand",
+        "sortOrder": 3
+    }
+]

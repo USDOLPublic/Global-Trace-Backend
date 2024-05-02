@@ -1,0 +1,8 @@
+{
+    "id": "fe7b6a11-da0a-4771-83f4-aea8a6f08fd7",
+    "groups": "Product",
+    "action": "VIEW_MARGIN_OF_ERROR",
+    "name": "View margin of error",
+    "parentId": "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e",
+    "sortOrder": 26
+}

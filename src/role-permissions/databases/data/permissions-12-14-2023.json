@@ -1,0 +1,8 @@
+{
+    "id": "0d489d81-7cd4-4f85-9088-8bff031379a7",
+    "name": "View supplier risk assessment",
+    "action": "VIEW_SUPPLIER_RISK_ASSESSMENT",
+    "sortOrder": 42,
+    "groups": "Product",
+    "groupType": "CHECKBOX"
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "3dc7e88a-f441-4855-ba21-5d9de256814e",
+    "countryCode": "BS",
+    "country": "The Bahamas",
+    "oarCountryName": "Bahamas"
+  },
+  {
+    "id": "e0164136-8cf9-4b22-9cf9-f62a516d2915",
+    "countryCode": "BO",
+    "country": "Bolivia",
+    "oarCountryName": "Bolivia, Plurinational State of"
+  },
+  {
+    "id": "3324bc9c-1149-4b8f-b8c4-2ff50d2fb4ac",
+    "countryCode": "BN",
+    "country": "Brunei",
+    "oarCountryName": "Brunei Darussalam"
+  },
+  {
+    "id": "b5517cb2-e53b-4411-8c06-4f71c083fd5e",
+    "countryCode": "CN",
+    "country": "People's Republic of China",
+    "oarCountryName": "China"
+  },
+  {
+    "id": "81a561bf-132f-425f-9e74-9e24f3ca135b",
+    "countryCode": "CG",
+    "country": "Republic of the Congo",
+    "oarCountryName": "Congo"
+  },
+  {
+    "id": "8991ad9d-7b81-445a-8096-715fbb5c0e4d",
+    "countryCode": "CD",
+    "country": "Democratic Republic of the Congo",
+    "oarCountryName": "Congo, the Democratic Republic of the"
+  },
+  {
+    "id": "85c9e7ea-d218-4a95-9a4a-8c3d4dcddf35",
+    "countryCode": "GM",
+    "country": "The Gambia",
+    "oarCountryName": "Gambia"
+  },
+  {
+    "id": "7a24ee55-746f-4bd9-82f8-5bf7f647f9a1",
+    "countryCode": "VA",
+    "country": "Vatican City",
+    "oarCountryName": "Holy See (Vatican City State)"
+  },
+  {
+    "id": "4e240035-b7eb-43da-b0d1-d33a00d07dba",
+    "countryCode": "IR",
+    "country": "Iran",
+    "oarCountryName": "Iran, Islamic Republic of"
+  },
+  {
+    "id": "6461cfee-bd1e-471b-b80b-f411ae0c0521",
+    "countryCode": "KP",
+    "country": "North Korea",
+    "oarCountryName": "Korea, Democratic People's Republic of"
+  },
+  {
+    "id": "d001df24-46df-4166-b60d-5d551af8dd87",
+    "countryCode": "KR",
+    "country": "South Korea",
+    "oarCountryName": "Korea, Republic of"
+  },
+  {
+    "id": "34b49470-b3d0-4088-84ba-d5826dd87ea8",
+    "countryCode": "LA",
+    "country": "Laos",
+    "oarCountryName": "Lao People's Democratic Republic"
+  },
+  {
+    "id": "3789bcee-840d-415a-aa03-e9667235826f",
+    "countryCode": "FM",
+    "country": "Federated States of Micronesia",
+    "oarCountryName": "Micronesia, Federated States of"
+  },
+  {
+    "id": "4dc0f919-9390-40cc-b76a-ed3429958f37",
+    "countryCode": "MD",
+    "country": "Moldova",
+    "oarCountryName": "Moldova, Republic of"
+  },
+  {
+    "id": "145cf581-d0c0-4525-b300-1f0adee30a98",
+    "countryCode": "RU",
+    "country": "Russia",
+    "oarCountryName": "Russian Federation"
+  },
+  {
+    "id": "ee919f93-7b87-4eab-b460-f80330a0922b",
+    "countryCode": "ST",
+    "country": "São Tomé and Príncipe",
+    "oarCountryName": "Sao Tome and Principe,Sao Tome And Principe"
+  },
+  {
+    "id": "1590ed0a-6ecf-4aff-ad1b-7870a69c7ab8",
+    "countryCode": "SZ",
+    "country": "Eswatini",
+    "oarCountryName": "Swaziland"
+  },
+  {
+    "id": "1ae4ab3e-788a-48ef-8b29-e48641901cce",
+    "countryCode": "SY",
+    "country": "Syria",
+    "oarCountryName": "Syrian Arab Republic"
+  },
+  {
+    "id": "cd064cc7-0f59-4c64-a178-44161780c646",
+    "countryCode": "TZ",
+    "country": "Tanzania",
+    "oarCountryName": "Tanzania, United Republic of"
+  },
+  {
+    "id": "eeb0219f-7be6-4017-b19d-600fee8656b1",
+    "countryCode": "US",
+    "country": "United States of America",
+    "oarCountryName": "United States"
+  },
+  {
+    "id": "03f2c01a-6d3d-46fc-a467-1fe41c2d2043",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "oarCountryName": "Venezuela, Bolivarian Republic of"
+  }
+]

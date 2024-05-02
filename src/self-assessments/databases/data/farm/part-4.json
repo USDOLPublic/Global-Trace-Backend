@@ -1,0 +1,201 @@
+{
+    "id": "1a4f8c3b-b146-4765-950d-fc3bf0a4f7bd",
+    "forRole": "FARM",
+    "groupTitle": {
+        "en": "Community Level Risk Assessment",
+        "ur": "Community Level Risk Assessment"
+    },
+    "riskScoreLevel": [],
+    "order": 3,
+    "description": null,
+    "questions": [
+        {
+            "id": "4147272b-7def-4835-984d-aa669ead9b21",
+            "title": {
+                "en": "Have there been any OSH incidents identified at a local health clinic  involving anyone under the age of 18, injured at work in a cotton farm?(YES/NO)",
+                "ur": "کیا کسی مقامی ہیلتھ کلینک میں OSH کے ایسے واقعات کی نشاندہی ہوئی ہے جس میں 18 سال سے کم عمر کا کوئی بھی شخص شامل ہو، جو کپاس کے فارم میں کام کےدوران زخمی ہوا ہو؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 1,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Worst Forms of Child Labor (work which may harm the health, safety or morals of children)"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "Low"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "0520ff4b-91cc-4f60-a921-4f712875bb59",
+            "title": {
+                "en": "Is there a primary and secondary schools in this community?",
+                "ur": "کیا اس کمیونٹی میں کوئی پرائمری اور سیکنڈری اسکول ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 2,
+            "type": "ONE_CHOICE",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes-both",
+                        "i18n": {
+                            "en": "Yes - both",
+                            "ur": "ہاں - دونوں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "yes-primary-only",
+                        "i18n": {
+                            "en": "Yes - Primary only",
+                            "ur": "ہاں - صرف پرائمری"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child labor"
+                    },
+                    {
+                        "code": "yes-secondary-only",
+                        "i18n": {
+                            "en": "Yes - Secondary only",
+                            "ur": "ہاں - صرف سیکنڈری"
+                        },
+                        "laborRiskLevel": "Medium",
+                        "laborRiskType": "Child labor"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "1bf177c4-ef78-4b1c-8234-0cf69879995b",
+            "title": {
+                "en": "Is there a school feeding programme at primary school level?(YES/NO)",
+                "ur": "کیا پرائمری اسکول کی سطح پر اسکول فیڈنگ پروگرام ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 3,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "74dc151f-dab1-4888-9af7-9ee4401af110",
+            "title": {
+                "en": "Is there connection to the mobile phone network in this community?(YES/NO)",
+                "ur": "کیا اس کمیونٹی میں موبائل فون نیٹ ورک سے کنکشن ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 4,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child labor"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "f37f365f-fbab-4af5-949a-8894fbd48d91",
+            "title": {
+                "en": "Is casual adult labour available in this community?(YES/NO)",
+                "ur": "کیا اس کمیونٹی میں  عارضی/وقتی بالغ مزدوری دستیاب ہے؟"
+            },
+            "description": {
+                "en": null
+            },
+            "order": 5,
+            "type": "YES_NO",
+            "isRequired": false,
+            "metadata": {
+                "values": [
+                    {
+                        "code": "yes",
+                        "i18n": {
+                            "en": "Yes",
+                            "ur": "جی ہاں"
+                        },
+                        "laborRiskLevel": "Low"
+                    },
+                    {
+                        "code": "no",
+                        "i18n": {
+                            "en": "No",
+                            "ur": "جی نہیں"
+                        },
+                        "laborRiskLevel": "High",
+                        "laborRiskType": "Child labor"
+                    }
+                ]
+            }
+        }
+    ]
+}

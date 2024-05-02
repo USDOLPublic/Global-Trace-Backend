@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "OAR_ID_1",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [106.598396, 17.465939]
+            },
+            "properties": {
+                "name": "facility_name_1",
+                "address": "Quảng Bình, Việt Nam",
+                "facilityAddress1": "",
+                "countryCode": "US",
+                "countryName": "United States",
+                "osId": "OAR_ID_1"
+            }
+        },
+        {
+            "id": "OAR_ID_2",
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [107.101163864, 16.8134147347]
+            },
+            "properties": {
+                "name": "facility_name_2",
+                "address": "Quảng Trị, Việt Nam",
+                "facilityAddress2": "",
+                "countryCode": "US",
+                "countryName": "United States",
+                "osId": "OAR_ID_2"
+            }
+        }
+    ]
+}

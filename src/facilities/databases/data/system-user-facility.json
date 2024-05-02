@@ -1,0 +1,17 @@
+[
+  {
+    "id": "54cf96ac-fc25-4ced-b66b-19db580d5c82",
+    "name": "Ginner Facility",
+    "type": 2
+  },
+  {
+    "id": "6652f43f-91c9-4d00-a05a-77b8680efb5c",
+    "name": "Spinner Facility",
+    "type": 3
+  },
+  {
+    "id": "f2e4628a-62d5-4289-a317-a4255a4401e1",
+    "name": "Mill Facility",
+    "type": 6
+  }
+]

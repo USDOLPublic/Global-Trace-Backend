@@ -1,0 +1,21 @@
+postgresql:
+  postgresqlUsername: postgres
+  postgresqlPassword: postgres
+  postgresqlDatabase: usdol
+
+redis:
+  architecture: standalone
+  auth:
+    enable: false
+
+backend:
+  port: 8080
+  deployment:
+    image: test
+    tag: latest
+    replicas: 1
+    imagePullSecret:
+  ingress:
+    host: k8s5.dungno.info
+  env:
+    TEST: vcl

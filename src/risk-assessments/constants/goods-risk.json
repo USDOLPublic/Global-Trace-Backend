@@ -1,0 +1,4426 @@
+[
+    {
+        "country": "Afghanistan",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Afghanistan",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Afghanistan",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Afghanistan",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Afghanistan",
+        "good": "Poppies",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Afghanistan",
+        "good": "Salt",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Angola",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Angola",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Blueberries",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Garlic",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Grapes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Olives",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Strawberries",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Tomatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Argentina",
+        "good": "Yerba Mate (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Azerbaijan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Bidis (hand-rolled cigarettes)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Dried Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Dried Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Furniture (steel)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Glass",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Leather",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Matches",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Poultry",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Salt",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Shrimp",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Soap",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bangladesh",
+        "good": "Textiles (jute)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Belize",
+        "good": "Bananas",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Belize",
+        "good": "Citrus Fruits",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Belize",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Benin",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Benin",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Benin",
+        "good": "Granite (crushed)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Brazil Nuts/Chestnuts",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Brazil Nuts/Chestnuts",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Peanuts",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Silver",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Tin",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Bolivia",
+        "good": "Zinc",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Açaí Berries",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Bananas",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Beef",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Cashews",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Ceramics",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Charcoal",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Charcoal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Hogs",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Manioc/Cassava",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Pineapples",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Poultry",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Sheep",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Sisal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Brazil",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Burkina Faso",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Burkina Faso",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Burkina Faso",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Burkina Faso",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Burkina Faso",
+        "good": "Granite",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Bamboo",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Beans (green, soy, yellow)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Bamboo",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Beans (green, soy, yellow)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Jade",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Jade",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rubies",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Palm Thatch",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Rubies",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Sesame",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Shrimp",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Sunflowers",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Teak",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Myanmar",
+        "good": "Teak",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Alcoholic Beverages",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Bovines",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Manioc/Cassava",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Meat",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Salt",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Shrimp",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cambodia",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cameroon",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cameroon",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Central African Republic",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Chad",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Artificial Flowers",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Christmas Decorations",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Electronics",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Electronics",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Gloves",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Hair Products",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Nails",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Photovoltaic Ingots",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Photovoltaic Wafers",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Polysilicon",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Solar Cells",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Solar Modules",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Toys",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Toys",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Tomato Products",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Thread/Yarn",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "China",
+        "good": "Cobalt Ore (heterogenite)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Bricks (clay)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Coca (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Coca (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Emeralds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Fruits (Pome and Stone) ",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Grapes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Colombia",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Costa Rica",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Costa Rica",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Cote d'Ivoire",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Cobalt ore (heterogenite)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Copper",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tantalum ore (coltan)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tin ore (cassiterite)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tungsten ore (wolframite)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tantalum ore (coltan)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tin ore (cassiterite)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Democratic Republic of the Congo",
+        "good": "Tungsten ore (wolframite)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Baked Goods",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Dominican Republic",
+        "good": "Tomatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Bananas",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Bovines",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Flowers",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Hogs",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Poultry",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ecuador",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Egypt",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Egypt",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Egypt",
+        "good": "Stones (limestone)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Baked Goods",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Cereal Grains",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Shellfish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "El Salvador",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Eswatini",
+        "good": "Bovines",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ethiopia",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ethiopia",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ethiopia",
+        "good": "Khat",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ethiopia",
+        "good": "Textiles (hand-woven)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ethiopia",
+        "good": "Textiles (hand-woven)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Bovines",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Tilapia (fish)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ghana",
+        "good": "Tilapia (fish)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Broccoli",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Gravel (crushed stones)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guatemala",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guinea",
+        "good": "Cashews",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guinea",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guinea",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guinea",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Guinea",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Honduras",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Honduras",
+        "good": "Lobsters",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Honduras",
+        "good": "Melons",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Bidis (hand-rolled cigarettes)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Brassware",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Cottonseed (hybrid)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Embellished Textiles",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Cottonseed (hybrid)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Embellished Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Gems",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Glass Bangles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Incense (agarbatti)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Leather Goods/Accessories",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Locks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Matches",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Mica",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Sandstone",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Sandstone",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Silk Fabric",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Silk Thread",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Soccer Balls",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Thread/Yarn",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Thread/Yarn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Crude Palm Oil",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Crude Palm Kernel Oil",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "India",
+        "good": "Thread/Yarn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Crude Palm Oil",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Crude Palm Kernel Oil",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Footwear (sandals)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Oleochemicals",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Palm Fruit",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Refined Palm Oil",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Refined Palm Kernel Oil",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Oleochemicals",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Palm Fruit",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Refined Palm Oil",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Refined Palm Kernel Oil",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Tin",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Indonesia",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Iran",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Iran",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kazakhstan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kazakhstan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Khat/Miraa (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Sand",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Sisal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kenya",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kyrgyzstan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Kyrgyzstan",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Lebanon",
+        "good": "Potatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Lebanon",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Lesotho",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Liberia",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Liberia",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Madagascar",
+        "good": "Mica",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Madagascar",
+        "good": "Sapphires",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Madagascar",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Madagascar",
+        "good": "Vanilla",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malawi",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malawi",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malawi",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Electronics",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Electronics",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Palm Fruit",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Palm Fruit",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Malaysia",
+        "good": "Rubber Gloves",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mali",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mali",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mali",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mali",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mauritania",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mauritania",
+        "good": "Goats",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Beans (green beans)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Chile Peppers",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Chile Peppers",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Cucumbers",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Eggplants",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Leather Goods/Accessories",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Melons",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Onions",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Poppies",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Tomatoes",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mexico",
+        "good": "Tomatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mongolia",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mongolia",
+        "good": "Fluorspar (mineral)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mongolia",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Mozambique",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Embellished Textiles",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Embellished Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nepal",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Bananas",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Gravel (crushed stones)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Shellfish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Stones (pumice)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nicaragua",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Niger",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Niger",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Niger",
+        "good": "Gypsum (mineral)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Niger",
+        "good": "Salt",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Niger",
+        "good": "Trona (mineral)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Granite",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Gravel (crushed stones)",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Granite",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Gravel (crushed stones)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Manioc/Cassava",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Nigeria",
+        "good": "Sand",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Cement",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Iron",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "North Korea",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Baked Goods",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Bovines",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Carpets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Dairy Products",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Electronics",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Furniture",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Glass Bangles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Leather",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Surgical Instruments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Pakistan",
+        "good": "Wheat",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Panama",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Panama",
+        "good": "Melons",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Beans",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Cabbages",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Carrots",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Goats",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Hogs",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Lettuce",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Manioc/Cassava",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Melons",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Onions",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Peanuts",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Peppers",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Poultry",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Sesame",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Sheep",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Stones (limestone)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Sweet Potatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Tomatoes",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Paraguay",
+        "good": "Yerba Mate (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Brazil Nuts/Chestnuts",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Coca (stimulant plant)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Fireworks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Peru",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Bananas",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Coconuts",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Corn",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Fashion Accessories",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Hogs",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Pyrotechnics",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Philippines",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Russia",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Russia",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Russia",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Russia",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Rwanda",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Senegal",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Cocoa",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Diamonds",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Granite",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sierra Leone",
+        "good": "Palm Fruit",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "South Sudan",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "South Sudan",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Sudan",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Suriname",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Taiwan",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tajikistan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tajikistan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Cloves",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Nile Perch (fish)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Sisal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Tanzanite (gems)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Tanzania",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Shrimp",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Shrimp",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Thailand",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Citrus Fruits",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Cumin",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Furniture",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Hazelnuts",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Peanuts",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Pulses (legumes)",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Türkiye",
+        "good": "Sugar Beets",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Turkmenistan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Turkmenistan",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Charcoal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Sand",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uganda",
+        "good": "Vanilla",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ukraine",
+        "good": "Amber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ukraine",
+        "good": "Coal",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Ukraine",
+        "good": "Pornography",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Uzbekistan",
+        "good": "Silk Cocoons",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Venezuela",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Bricks",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Cashews",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Coffee",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Footwear",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Furniture",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Forced Labor",
+        "subIndicator": "Goods produced with forced labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Garments",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Leather",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Pepper",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Rice",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Rubber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Tea",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Textiles",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Timber",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Vietnam",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Yemen",
+        "good": "Fish",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zambia",
+        "good": "Cattle",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zambia",
+        "good": "Cotton",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zambia",
+        "good": "Gems",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zambia",
+        "good": "Stones",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zambia",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zimbabwe",
+        "good": "Gold",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zimbabwe",
+        "good": "Sugarcane",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    },
+    {
+        "country": "Zimbabwe",
+        "good": "Tobacco",
+        "category": "Labor",
+        "indicator": "Child Labor",
+        "subIndicator": "Goods produced with child labor (ILAB List of Goods)",
+        "severity": 3
+    }
+]

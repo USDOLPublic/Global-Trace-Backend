@@ -1,0 +1,140 @@
+default:
+  retry:
+    max: 2
+    when: runner_system_failure
+
+include:
+  - project: 'diginexhk/tools/shared-assets/ci-cd'
+    ref: master
+    file: main.yml
+
+### Variables
+.develop: &develop_vars
+  variables:
+    HELM_CONFIG: dev.values.yaml
+    NAMESPACE: usdol-dev
+    INFRA_NAME: usdol-infra-dev
+    DEPLOYMENT_NAME: usdol-backend-dev
+    URL: https://usdol-api.dev.dgnx.io
+    ENVIRONMENT: dev
+    KUBE_CONFIG: $DEV3_KUBE_CONFIG
+
+.qa: &qa_vars
+  variables:
+    HELM_CONFIG: qa.values.yaml
+    NAMESPACE: usdol-qa
+    INFRA_NAME: usdol-infra-qa
+    DEPLOYMENT_NAME: usdol-backend-qa
+    URL: https://usdol-api.qa.dgnx.io
+    ENVIRONMENT: qa
+    KUBE_CONFIG: $DEV3_KUBE_CONFIG
+
+.staging: &staging_vars
+  variables:
+    HELM_CONFIG: uat.values.yaml
+    NAMESPACE: usdol-uat
+    INFRA_NAME: usdol-infra-uat
+    DEPLOYMENT_NAME: usdol-backend-uat
+    URL: https://usdol-api.uat.dgnx.io
+    ENVIRONMENT: uat
+    KUBE_CONFIG: $DEV3_KUBE_CONFIG
+
+.staging2: &staging2_vars
+  variables:
+    HELM_CONFIG: uat2.values.yaml
+    NAMESPACE: usdol-uat2
+    INFRA_NAME: usdol-infra-uat
+    DEPLOYMENT_NAME: usdol-backend-uat
+    URL: https://usdol-api.uat2.dgnx.io
+    ENVIRONMENT: uat2
+    KUBE_CONFIG: $DEV3_KUBE_CONFIG
+
+.master: &master_vars
+  variables:
+    HELM_CONFIG: prod.values.yaml
+    NAMESPACE: usdol-prod
+    INFRA_NAME: usdol-infra-prod
+    DEPLOYMENT_NAME: usdol-backend-prod
+    URL: https://usdol-prod.dev.dgnx.io
+    ENVIRONMENT: prod
+    KUBE_CONFIG: $PROD_KUBE_CONFIG
+
+### Base Job
+.base:
+  variables:
+    HELM_CHART_INFRA_NAME: usdol-infra
+    HELM_CHART_DEPLOYMENT_NAME: usdol-backend
+  rules:
+    - if: $CI_COMMIT_REF_NAME == 'develop'
+      <<: *develop_vars
+    - if: $CI_COMMIT_REF_NAME == 'qa'
+      <<: *qa_vars
+    - if: $CI_COMMIT_REF_NAME == 'staging'
+      <<: *staging_vars
+    - if: $CI_COMMIT_REF_NAME == 'staging2'
+      <<: *staging2_vars
+    - if: $CI_COMMIT_REF_NAME == 'master' && $CI_JOB_STAGE == 'deploy'
+      when: manual
+      <<: *master_vars
+    - if: $CI_COMMIT_REF_NAME == 'master' && $CI_JOB_STAGE != 'deploy'
+      <<: *master_vars
+
+### Stage
+stages:
+  - test
+  - build
+  - deploy
+#  - e2e_test
+
+test:
+  extends:
+    - .notification
+  image:
+    name: node:14
+  services:
+    - postgres:11-alpine
+    - redis:latest
+    - eaudeweb/mailtrap:latest
+    - zookeeper:latest
+  variables:
+    POSTGRES_DB: usdol_unit_test
+    POSTGRES_USER: test
+    POSTGRES_PASSWORD: test
+    POSTGRES_HOST_AUTH_METHOD: trust
+  stage: test
+  script:
+    - cp .env.unit-test .env
+    - npm install --prefer-offline
+    - npm run check
+    - npm run lint
+    - npm run test:e2e
+    - touch .success
+
+code_analysis:
+  stage: test
+  extends:
+    - .code_analysis
+
+build:
+  stage: build
+  extends:
+    - .base
+    - .build
+
+deploy:
+  stage: deploy
+  extends:
+    - .base
+    - .notification
+    - .deploy_direct_backend
+
+#e2e_test_dev:
+#  stage: e2e_test
+#  variables:
+#    ENVIRONMENT: dev
+#  trigger:
+#    project: diginexhk/usdol/usdol-auto-e2e
+#    strategy: depend
+#    branch: develop
+#  only:
+#    - develop

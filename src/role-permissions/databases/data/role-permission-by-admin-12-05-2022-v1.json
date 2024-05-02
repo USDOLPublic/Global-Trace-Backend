@@ -1,0 +1,17 @@
+[
+      {
+        "id": "9ce49541-66f1-41aa-96c0-1b924dd1ccfb",
+        "roleId": "659e0ed0-f547-4d56-b15e-a723a908c91e",
+        "permissionId": "aa6ff70a-0e79-437f-91a8-3593e7aff193"
+    },
+    {
+        "id": "998a6a3d-d472-47dc-b051-af48be4ed70f",
+        "roleId": "659e0ed0-f547-4d56-b15e-a723a908c91e",
+        "permissionId": "62aeb1aa-8d0c-439d-adad-c39eadbc6ab9"
+    },
+    {
+        "id": "f9c17344-1610-497f-a614-e373fcc5dba8",
+        "roleId": "659e0ed0-f547-4d56-b15e-a723a908c91e",
+        "permissionId": "fdef40f9-94c5-4829-b252-c256b76634c6"
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "id": "ad29a768-b2fd-4a39-8f3a-616e3774c27c",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 0,
+        "setName": null,
+        "action": "LOG_TRANSFORMATIONS",
+        "name": "Log transformations"
+    },
+    {
+        "id": "ed9ae6e1-11e6-4cb4-bb60-64c2221a5151",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 0,
+        "setName": null,
+        "action": "LOG_TRANSPORT",
+        "name": "Log transport"
+    },
+    {
+        "id": "f68d8df4-3e59-452a-9a40-1d4450b5f4f3",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 0,
+        "setName": null,
+        "action": "LOG_BY_PRODUCT",
+        "name": "Log by-product"
+    },
+
+    {
+        "id": "32e3083b-ff02-409f-879a-0e441b956977",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 1,
+        "setName": null,
+        "action": "USE_SYNTHETIC_DNA",
+        "name": "Use synthetic DNA"
+    },
+    {
+        "id": "dfc3a30e-18d1-4ed4-b8c0-422b8f3726e2",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 1,
+        "setName": null,
+        "action": "USE_QR_CODE",
+        "name": "Use QR Code"
+    },
+    {
+        "id": "78c9b572-0361-468e-86a7-62c41ad01db9",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 1,
+        "setName": null,
+        "action": "USE_BARCODE",
+        "name": "Use Barcode"
+    },
+
+    {
+        "id": "4b932976-cc2c-4da5-9075-fa478b6e4f0e",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 2,
+        "setName": null,
+        "action": "TRACE_PRODUCTS",
+        "name": "Trace products"
+    },
+    {
+        "id": "9f2af4b7-675d-40b5-a8b2-8ae08a5c5e49",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 2,
+        "setName": null,
+        "action": "VIEW_HISTORY",
+        "name": "View history"
+    },
+    {
+        "id": "1c1c21db-69f7-4a72-b3a2-19ac876cefd2",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 2,
+        "setName": null,
+        "action": "INVITE_PARTNERS",
+        "name": "Invite partners"
+    },
+
+    {
+        "id": "7a67ae4b-54e6-4ce2-a610-5d7f7d719823",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 3,
+        "setName": "Chain of custody model",
+        "action": "CALCULATE_MASS_BALANCE",
+        "name": "Calculate mass balance"
+    },
+    {
+        "id": "a5151577-4a9d-452a-9b6b-30e1d6e57b3d",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 3,
+        "setName": "Chain of custody model",
+        "action": "CALCULATE_MARGIN_OF_ERROR",
+        "name": "Calculate margin of error"
+    },
+    {
+        "id": "97e4003d-13af-4e25-8970-fd16d3f0fe96",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 3,
+        "setName": "Chain of custody model",
+        "action": "CALCULATE_TOTAL_INPUTS",
+        "name": "Calculate total inputs"
+    },
+
+    {
+        "id": "b34e10d4-32a6-4ab2-9d53-bc107e5193e0",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 4,
+        "setName": "Log sale",
+        "action": "LOG_SALE",
+        "name": "Log sale"
+    },
+
+    {
+        "id": "e1fd0d22-07c3-4b80-b61d-2c5d5646d725",
+        "groupId": "cfee4536-401f-4216-8aeb-ce061c9a969f",
+        "set": 5,
+        "setName": "Log purchase",
+        "action": "LOG_PURCHASES",
+        "name": "Log purchases"
+    },
+
+    {
+        "id": "930d872e-e4d0-4767-bfe8-2340f414191e",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 6,
+        "setName": "Submit Reports",
+        "action": "PROACTIVE_ASSESSMENTS",
+        "name": "Proactive Assessments"
+    },
+    {
+        "id": "1fd2a4ab-d919-4172-9547-b813e61a499d",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 6,
+        "setName": "Submit Reports",
+        "action": "REACTIVE_ASSESSMENTS",
+        "name": "Reactive Assessments"
+    },
+    {
+        "id": "491e6492-6c4a-47ed-bd6e-ca6d856e5c82",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 6,
+        "setName": "Submit Reports",
+        "action": "REFER_REPORT_FOR_FOLLOW_UP",
+        "name": "Refer report for follow up"
+    },
+
+    {
+        "id": "b56d36b3-1e7b-4974-aab6-a698d534a931",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 7,
+        "setName": "View Reports",
+        "action": "VIEW_ALL_REPORTS",
+        "name": "View all reports"
+    },
+    {
+        "id": "ced985a9-d44e-4a32-937a-cbe9c6afef04",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 7,
+        "setName": "View Reports",
+        "action": "VIEW_MY_REPORTS",
+        "name": "View my reports"
+    },
+    {
+        "id": "9de58a7a-a8b5-49d2-986b-1a55c4e6ccf1",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 7,
+        "setName": "View Reports",
+        "action": "VIEW_COMPLETE_AUDIT_REPORT_DETAILS",
+        "name": "View complete audit report details"
+    },
+
+    {
+        "id": "6049cf23-3caa-4e9a-8f8a-fe31ce553b34",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 8,
+        "setName": null,
+        "action": "VIEW_LIMITED_AUDIT_REPORT_DETAILS",
+        "name": "View limited audit report details"
+    },
+    {
+        "id": "77bf1120-014c-479b-91a2-3b6ef46c7ec8",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 8,
+        "setName": null,
+        "action": "VIEW_COMPLETE_LABOR_MONITOR_DETAILS",
+        "name": "View complete labor monitor details"
+    },
+    {
+        "id": "225ba265-fe9d-4682-8d8d-c7ed18f0098d",
+        "groupId": "f2ae7ad0-a637-4802-bfd2-783725ae768b",
+        "set": 8,
+        "setName": null,
+        "action": "VIEW_LIMITED_LABOR_MONITOR_DETAILS",
+        "name": "View limited labor monitor details"
+    },
+
+
+    {
+        "id": "543b9f72-1bdf-47aa-baf6-d0993939acb5",
+        "groupId": "fefc60bf-4241-448b-96c5-f1cf0d7e4b89",
+        "set": 9,
+        "setName": null,
+        "action": "LOG_DNA_TEST_RESULTS",
+        "name": "Log DNA test results"
+    },
+    {
+        "id": "d9d4d611-76a2-4688-940b-e71d21d06c02",
+        "groupId": "fefc60bf-4241-448b-96c5-f1cf0d7e4b89",
+        "set": 9,
+        "setName": null,
+        "action": "VIEW_DNA_TEST_RESULTS",
+        "name": "View DNA test results"
+    },
+
+    {
+        "id": "53762c36-283e-48f1-83e9-4dd966464509",
+        "groupId": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "set": 10,
+        "setName": "Submit",
+        "action": "SUBMIT_OWN_SAQ",
+        "name": "Submit own SAQ"
+    },
+    {
+        "id": "7759fb4c-ff64-46b1-b8f2-dd7ed48c61b4",
+        "groupId": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "set": 10,
+        "setName": "Submit",
+        "action": "SUBMIT_OWN_SAQ_FOR_OTHER_PARTICIPANT",
+        "name": "Submit own SAQ for other participant"
+    },
+    {
+        "id": "2ba5002e-1545-47f4-b402-383c111d4ea4",
+        "groupId": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "set": 10,
+        "setName": "Submit",
+        "action": "DOWNLOAD_OWN_SAQ_RESPONSES",
+        "name": "Download own SAQ responses"
+    },
+
+
+    {
+        "id": "9671c619-64a5-4cd6-995f-6a49cf7f0232",
+        "groupId": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "set": 11,
+        "setName": "Administer",
+        "action": "REQUIRE_SAQ",
+        "name": "Require SAQ"
+    },
+    {
+        "id": "2a6781f7-837a-4c1c-97ea-ef1e23be5523",
+        "groupId": "f72ac92f-68da-477c-84ae-b2d1e17b1b73",
+        "set": 11,
+        "setName": "Administer",
+        "action": "DOWNLOAD_OTHERS_SAQ_RESPONSE",
+        "name": "Download others SAQ response"
+    },
+
+    {
+        "id": "9b58c62f-75cf-42fb-aa93-0a053ede8148",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 12,
+        "setName": null,
+        "action": "ADD_EDIT_WEIGHTS_FOR_LABOR_INPUTS",
+        "name": "Add / edit weights for labor inputs"
+    },
+    {
+        "id": "ad7415ca-eddf-4639-8bfa-61d53a45dbd7",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 12,
+        "setName": null,
+        "action": "SET_SELF_ASSESSMENT_QUESTIONNAIRES",
+        "name": "Set Self assessment questionnaires"
+    },
+    {
+        "id": "f868b98c-18f1-426c-978d-2e9160054947",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 12,
+        "setName": null,
+        "action": "ADD_EDIT_SCORING_FOR_RISK_ASSESSMENT",
+        "name": "Add / edit scoring for risk assessment"
+    },
+
+    {
+        "id": "5d5b5c42-1ec6-41e0-a9e5-1893f2a6ef03",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 13,
+        "setName": null,
+        "action": "ADMINISTER_SITE_SETTINGS",
+        "name": "Administer site settings"
+    },
+    {
+        "id": "9e3c3f8d-c1f4-4e19-a389-b62d570e64e8",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 13,
+        "setName": null,
+        "action": "ADMINISTER_USERS",
+        "name": "Administer users"
+    },
+    {
+        "id": "9e42a0c7-7e37-4a1f-9c4f-2343b4a88341",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 13,
+        "setName": null,
+        "action": "ADMINISTER_ROLES_AND_PERMISSIONS",
+        "name": "Administer roles and permissions"
+    },
+
+    {
+        "id": "8fbb9af9-5110-4ebf-b7ef-35d86c08164d",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 14,
+        "setName": null,
+        "action": "MANAGE_QR_CODES",
+        "name": "Manage QR codes"
+    },
+    {
+        "id": "fa81294b-29a1-4b7d-a97c-8475862c3a16",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 14,
+        "setName": null,
+        "action": "VIEW_SUPPLIER_DATABASE",
+        "name": "View supplier database"
+    },
+    {
+        "id": "cfa64d6b-3cfc-4b2d-9d5a-42d3e41ad383",
+        "groupId": "7c4672a2-5a72-42de-85c0-4bfba314549e",
+        "set": 14,
+        "setName": null,
+        "action": "VIEW_SUPPLIER_DETAILS",
+        "name": "View supplier details"
+    }
+]

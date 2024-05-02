@@ -1,0 +1,509 @@
+[
+    {
+        "commodity": "Bricks"
+    },
+    {
+        "commodity": "Carpets"
+    },
+    {
+        "commodity": "Coal"
+    },
+    {
+        "commodity": "Poppies"
+    },
+    {
+        "commodity": "Salt"
+    },
+    {
+        "commodity": "Diamonds"
+    },
+    {
+        "commodity": "Blueberries"
+    },
+    {
+        "commodity": "Cotton"
+    },
+    {
+        "commodity": "Garlic"
+    },
+    {
+        "commodity": "Garments"
+    },
+    {
+        "commodity": "Grapes"
+    },
+    {
+        "commodity": "Olives"
+    },
+    {
+        "commodity": "Strawberries"
+    },
+    {
+        "commodity": "Tobacco"
+    },
+    {
+        "commodity": "Tomatoes"
+    },
+    {
+        "commodity": "Yerba Mate (stimulant plant)"
+    },
+    {
+        "commodity": "Bidis (hand-rolled cigarettes)"
+    },
+    {
+        "commodity": "Dried Fish"
+    },
+    {
+        "commodity": "Footwear"
+    },
+    {
+        "commodity": "Furniture (steel)"
+    },
+    {
+        "commodity": "Glass"
+    },
+    {
+        "commodity": "Leather"
+    },
+    {
+        "commodity": "Matches"
+    },
+    {
+        "commodity": "Poultry"
+    },
+    {
+        "commodity": "Shrimp"
+    },
+    {
+        "commodity": "Soap"
+    },
+    {
+        "commodity": "Textiles"
+    },
+    {
+        "commodity": "Textiles (jute)"
+    },
+    {
+        "commodity": "Bananas"
+    },
+    {
+        "commodity": "Citrus Fruits"
+    },
+    {
+        "commodity": "Sugarcane"
+    },
+    {
+        "commodity": "Granite (crushed)"
+    },
+    {
+        "commodity": "Brazil Nuts/Chestnuts"
+    },
+    {
+        "commodity": "Cattle"
+    },
+    {
+        "commodity": "Corn"
+    },
+    {
+        "commodity": "Gold"
+    },
+    {
+        "commodity": "Peanuts"
+    },
+    {
+        "commodity": "Silver"
+    },
+    {
+        "commodity": "Tin"
+    },
+    {
+        "commodity": "Zinc"
+    },
+    {
+        "commodity": "Açaí Berries"
+    },
+    {
+        "commodity": "Beef"
+    },
+    {
+        "commodity": "Cashews"
+    },
+    {
+        "commodity": "Ceramics"
+    },
+    {
+        "commodity": "Charcoal"
+    },
+    {
+        "commodity": "Cocoa"
+    },
+    {
+        "commodity": "Coffee"
+    },
+    {
+        "commodity": "Fish"
+    },
+    {
+        "commodity": "Hogs"
+    },
+    {
+        "commodity": "Manioc/Cassava"
+    },
+    {
+        "commodity": "Pineapples"
+    },
+    {
+        "commodity": "Rice"
+    },
+    {
+        "commodity": "Sheep"
+    },
+    {
+        "commodity": "Sisal"
+    },
+    {
+        "commodity": "Timber"
+    },
+    {
+        "commodity": "Granite"
+    },
+    {
+        "commodity": "Bamboo"
+    },
+    {
+        "commodity": "Beans (green, soy, yellow)"
+    },
+    {
+        "commodity": "Jade"
+    },
+    {
+        "commodity": "Rubber"
+    },
+    {
+        "commodity": "Rubies"
+    },
+    {
+        "commodity": "Palm Thatch"
+    },
+    {
+        "commodity": "Sesame"
+    },
+    {
+        "commodity": "Sunflowers"
+    },
+    {
+        "commodity": "Teak"
+    },
+    {
+        "commodity": "Alcoholic Beverages"
+    },
+    {
+        "commodity": "Bovines"
+    },
+    {
+        "commodity": "Meat"
+    },
+    {
+        "commodity": "Artificial Flowers"
+    },
+    {
+        "commodity": "Christmas Decorations"
+    },
+    {
+        "commodity": "Electronics"
+    },
+    {
+        "commodity": "Fireworks"
+    },
+    {
+        "commodity": "Gloves"
+    },
+    {
+        "commodity": "Hair Products"
+    },
+    {
+        "commodity": "Nails"
+    },
+    {
+        "commodity": "Photovoltaic Ingots"
+    },
+    {
+        "commodity": "Photovoltaic Wafers"
+    },
+    {
+        "commodity": "Polysilicon"
+    },
+    {
+        "commodity": "Solar Cells"
+    },
+    {
+        "commodity": "Solar Modules"
+    },
+    {
+        "commodity": "Toys"
+    },
+    {
+        "commodity": "Tomato Products"
+    },
+    {
+        "commodity": "Thread/Yarn"
+    },
+    {
+        "commodity": "Cobalt Ore (heterogenite)"
+    },
+    {
+        "commodity": "Bricks (clay)"
+    },
+    {
+        "commodity": "Coca (stimulant plant)"
+    },
+    {
+        "commodity": "Emeralds"
+    },
+    {
+        "commodity": "Fruits (Pome and Stone) "
+    },
+    {
+        "commodity": "Pornography"
+    },
+    {
+        "commodity": "Copper"
+    },
+    {
+        "commodity": "Tantalum ore (coltan)"
+    },
+    {
+        "commodity": "Tin ore (cassiterite)"
+    },
+    {
+        "commodity": "Tungsten ore (wolframite)"
+    },
+    {
+        "commodity": "Baked Goods"
+    },
+    {
+        "commodity": "Flowers"
+    },
+    {
+        "commodity": "Stones (limestone)"
+    },
+    {
+        "commodity": "Cereal Grains"
+    },
+    {
+        "commodity": "Shellfish"
+    },
+    {
+        "commodity": "Khat"
+    },
+    {
+        "commodity": "Textiles (hand-woven)"
+    },
+    {
+        "commodity": "Tilapia (fish)"
+    },
+    {
+        "commodity": "Broccoli"
+    },
+    {
+        "commodity": "Gravel (crushed stones)"
+    },
+    {
+        "commodity": "Lobsters"
+    },
+    {
+        "commodity": "Melons"
+    },
+    {
+        "commodity": "Brassware"
+    },
+    {
+        "commodity": "Cottonseed (hybrid)"
+    },
+    {
+        "commodity": "Embellished Textiles"
+    },
+    {
+        "commodity": "Gems"
+    },
+    {
+        "commodity": "Glass Bangles"
+    },
+    {
+        "commodity": "Incense (agarbatti)"
+    },
+    {
+        "commodity": "Leather Goods/Accessories"
+    },
+    {
+        "commodity": "Locks"
+    },
+    {
+        "commodity": "Mica"
+    },
+    {
+        "commodity": "Sandstone"
+    },
+    {
+        "commodity": "Silk Fabric"
+    },
+    {
+        "commodity": "Silk Thread"
+    },
+    {
+        "commodity": "Soccer Balls"
+    },
+    {
+        "commodity": "Stones"
+    },
+    {
+        "commodity": "Tea"
+    },
+    {
+        "commodity": "Crude Palm Oil"
+    },
+    {
+        "commodity": "Crude Palm Kernel Oil"
+    },
+    {
+        "commodity": "Footwear (sandals)"
+    },
+    {
+        "commodity": "Oleochemicals"
+    },
+    {
+        "commodity": "Palm Fruit"
+    },
+    {
+        "commodity": "Refined Palm Oil"
+    },
+    {
+        "commodity": "Refined Palm Kernel Oil"
+    },
+    {
+        "commodity": "Khat/Miraa (stimulant plant)"
+    },
+    {
+        "commodity": "Sand"
+    },
+    {
+        "commodity": "Potatoes"
+    },
+    {
+        "commodity": "Sapphires"
+    },
+    {
+        "commodity": "Vanilla"
+    },
+    {
+        "commodity": "Rubber Gloves"
+    },
+    {
+        "commodity": "Goats"
+    },
+    {
+        "commodity": "Beans (green beans)"
+    },
+    {
+        "commodity": "Chile Peppers"
+    },
+    {
+        "commodity": "Cucumbers"
+    },
+    {
+        "commodity": "Eggplants"
+    },
+    {
+        "commodity": "Onions"
+    },
+    {
+        "commodity": "Fluorspar (mineral)"
+    },
+    {
+        "commodity": "Stones (pumice)"
+    },
+    {
+        "commodity": "Gypsum (mineral)"
+    },
+    {
+        "commodity": "Trona (mineral)"
+    },
+    {
+        "commodity": "Cement"
+    },
+    {
+        "commodity": "Iron"
+    },
+    {
+        "commodity": "Dairy Products"
+    },
+    {
+        "commodity": "Furniture"
+    },
+    {
+        "commodity": "Surgical Instruments"
+    },
+    {
+        "commodity": "Wheat"
+    },
+    {
+        "commodity": "Beans"
+    },
+    {
+        "commodity": "Cabbages"
+    },
+    {
+        "commodity": "Carrots"
+    },
+    {
+        "commodity": "Lettuce"
+    },
+    {
+        "commodity": "Peppers"
+    },
+    {
+        "commodity": "Sweet Potatoes"
+    },
+    {
+        "commodity": "Coconuts"
+    },
+    {
+        "commodity": "Fashion Accessories"
+    },
+    {
+        "commodity": "Pyrotechnics"
+    },
+    {
+        "commodity": "Cloves"
+    },
+    {
+        "commodity": "Nile Perch (fish)"
+    },
+    {
+        "commodity": "Tanzanite (gems)"
+    },
+    {
+        "commodity": "Cumin"
+    },
+    {
+        "commodity": "Hazelnuts"
+    },
+    {
+        "commodity": "Pulses (legumes)"
+    },
+    {
+        "commodity": "Sugar Beets"
+    },
+    {
+        "commodity": "Amber"
+    },
+    {
+        "commodity": "Silk Cocoons"
+    },
+    {
+        "commodity": "Pepper"
+    },
+    {
+        "commodity": "Other"
+    }
+]

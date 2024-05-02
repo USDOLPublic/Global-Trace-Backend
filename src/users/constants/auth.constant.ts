@@ -1,0 +1,1 @@
+export const DEFAULT_CACHING_TTL_SHORT_TOKEN = 3000;

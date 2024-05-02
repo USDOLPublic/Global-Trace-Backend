@@ -1,0 +1,2 @@
+export const MICROSERVICE_TIMEOUT = 10 * 1000;
+export const DEFAULT_CACHING_TTL = 300;

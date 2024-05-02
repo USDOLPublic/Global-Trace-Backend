@@ -1,0 +1,156 @@
+[
+    {
+        "name": "SUPER_ADMIN",
+        "roleId": "30d0f8b0-0477-40ef-a563-83f739e67b7e",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "d2d10b21-39a0-45c7-839f-09c98f157dec",
+            "82901b8a-5950-4e86-93db-088a7f14684e",
+            "b57fbc21-7c2a-40ab-bf3a-e53a8231b4d7",
+            "d9f9a0db-859f-4b52-9374-aa1ec32a0cf0",
+            "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+            "b8f08d77-e0b1-4a29-8e81-2a4c732a1019",
+            "c1c5e198-eaa5-4dbb-85b2-53bdc685d56c",
+            "0e6965d7-100f-41a6-9f61-041b01b78fc9",
+            "cb6b4504-7a35-4f4e-b4d0-2a80b7184c76",
+            "ca0199d7-e3e9-4e0b-9aeb-e57c61a6e43d"
+        ]
+    },
+    {
+        "name": "ADMIN",
+        "roleId": "659e0ed0-f547-4d56-b15e-a723a908c91e",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "d2d10b21-39a0-45c7-839f-09c98f157dec",
+            "82901b8a-5950-4e86-93db-088a7f14684e",
+            "b57fbc21-7c2a-40ab-bf3a-e53a8231b4d7",
+            "d9f9a0db-859f-4b52-9374-aa1ec32a0cf0",
+            "2bfcf3e0-756d-41eb-904f-5b9f6579c515",
+            "b8f08d77-e0b1-4a29-8e81-2a4c732a1019",
+            "c1c5e198-eaa5-4dbb-85b2-53bdc685d56c",
+            "0e6965d7-100f-41a6-9f61-041b01b78fc9",
+            "cb6b4504-7a35-4f4e-b4d0-2a80b7184c76",
+            "ca0199d7-e3e9-4e0b-9aeb-e57c61a6e43d"
+        ]
+    },
+    {
+        "name": "FARM",
+        "roleId": "ca7c964c-0b7c-4f48-aa2a-175a97139688",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "d4fa5617-b92a-43ec-ac40-f5dda57eebe3"
+        ]
+    },
+    {
+        "name": "GINNER",
+        "roleId": "e6be1a55-26f0-4fc9-ac27-6cc51f0dc0e5",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af",
+            "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+            "df53ea1c-95d4-4230-89df-4a7cafb48419",
+            "4dcb9eb6-35d2-45a3-bdbd-8ad4c265d45c",
+            "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+            "84f81d9c-6b68-43b2-a77a-6d9874eef25d",
+            "0f4bcbf5-3c52-47a0-a15e-3a14383cf1e5",
+            "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+            "af6f036a-2c02-4f43-8a9f-6505c682272b",
+            "ff3b587c-94e9-4dd6-b916-2d8b48c1a5d3",
+            "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076",
+            "24e0f0b4-2a0f-47ab-8b53-df16e7865545",
+            "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e"
+        ]
+    },
+    {
+        "name": "SPINNER",
+        "roleId": "0dc62cd0-2539-452c-9050-0110feed9060",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af",
+            "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+            "85d1c667-374f-417a-8ad3-89a94c55a4e3",
+            "4dcb9eb6-35d2-45a3-bdbd-8ad4c265d45c",
+            "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+            "1b7ec067-8e2b-4fc7-82bb-1bf4301cf1c4",
+            "0f4bcbf5-3c52-47a0-a15e-3a14383cf1e5",
+            "572f7cd9-7e67-4de4-9f79-c974e60ca8f7",
+            "65f89c18-9672-4a2a-b83d-7a5c42d83e0f",
+            "ff3b587c-94e9-4dd6-b916-2d8b48c1a5d3",
+            "e8c938f4-b6db-4165-887f-64c8707a5c45",
+            "abf0c84d-9644-4f8d-b1e7-7e94b5f5e076",
+            "1f91c5e5-1c1f-4b60-bc88-02e9e2f3f9ac",
+            "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e"
+        ]
+    },
+    {
+        "name": "MILL",
+        "roleId": "5e429ca1-1a7f-42dc-b9f8-733caded03fe",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af",
+            "3eb9cb1e-d9b7-4e7e-aaaf-77b36eaed8ac",
+            "4f688b4f-3e06-4f0d-9910-1817fc7f2f95",
+            "4dcb9eb6-35d2-45a3-bdbd-8ad4c265d45c",
+            "8f3523ff-524c-4b8b-89a7-4e83e3ac6225",
+            "1b7ec067-8e2b-4fc7-82bb-1bf4301cf1c4",
+            "0f4bcbf5-3c52-47a0-a15e-3a14383cf1e5",
+            "e8c938f4-b6db-4165-887f-64c8707a5c45",
+            "1c055d14-eea1-4b60-9b7d-c34ea2db9e7e"
+        ]
+    },
+    {
+        "name": "FARM_MONITOR",
+        "roleId": "1208dbbe-293a-4fa1-8af7-482f9a02996a",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+            "63a315b3-ccf0-4d18-8ce1-17895e456c6a",
+            "1f432b6f-6df5-42f2-8182-0e4a31428ecb",
+            "2f625cf1-b685-4326-8250-26422aa3ac3c",
+            "9131b752-e65f-4725-96b9-9084c05cc23e"
+        ]
+    },
+    {
+        "name": "FARM_MONITOR_WEB",
+        "roleId": "3f4f046d-ec31-4fbc-814d-238d9b9d28e7",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+            "63a315b3-ccf0-4d18-8ce1-17895e456c6a",
+            "1f432b6f-6df5-42f2-8182-0e4a31428ecb",
+            "2f625cf1-b685-4326-8250-26422aa3ac3c",
+            "9131b752-e65f-4725-96b9-9084c05cc23e"
+        ]
+    },
+    {
+        "name": "AUDITOR",
+        "roleId": "62660fc3-4b32-4e7d-b487-59b83b3ad973",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "e6a9b32c-1a5e-47b2-b6b7-6b1757f0b73d",
+            "1f432b6f-6df5-42f2-8182-0e4a31428ecb",
+            "2f625cf1-b685-4326-8250-26422aa3ac3c",
+            "9131b752-e65f-4725-96b9-9084c05cc23e"
+        ]
+    },
+    {
+        "name": "BRAND",
+        "roleId": "b9c1e596-bbd5-4638-aa83-b572ff1a4c90",
+        "permissionIds": [
+            "a32f25cd-881e-45b1-9601-91b5092fa286",
+            "0a107bbb-520d-4a42-994f-8dc9c882861d",
+            "b364b4a7-2b0b-45c2-bc85-982f9aa53f9a",
+            "30c5a6f4-d6db-49f4-93d1-eac5f1612292",
+            "5e86a780-09e9-47b1-87a1-1bb9b78500d5",
+            "c7b6cc67-e8c2-48c1-ba2c-4f49b722f9af"
+        ]
+    }
+]
